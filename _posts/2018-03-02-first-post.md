@@ -8,7 +8,7 @@ tags: [first, blog]
 image: /img/hello_world.jpeg
 ---
 
-Hello! My name is Ali Furkan. I will start to share my knowledge and experiences from here. I actually have a very long experience in blogging but had paused for a long time. It feels weird to restart blogging :smiley: 
+Hello! My name is Ali Furkan. I will start to share my knowledge and experiences from here. I actually have a very long experience in blogging but had paused for a long time. It feels weird to restart blogging :)
 
 Anyway, I should talk about myself a little. I am an economist, or rather an economist student to be honest, currently a master student at Istanbul Technical University. My professional research interests are: econometrics and microeconomic theory. The sub-research fields can be listed as: machine learning, individual preferences and demand systems, big data, and so on. 
 
