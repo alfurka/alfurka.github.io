@@ -24,7 +24,7 @@ description: My personal web page
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  CV: "/assets/cv.pdf"
+  CV: "http://alfurka.github.io/assets/cv.pdf"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
