@@ -4,7 +4,7 @@ title: Eğitime Dair Notlar - 1
 subtitle: Eğitim ve birey
 tags: [eğitim, felsefe, düşünce]
 image: /img/hello_world.jpeg
-bigimg: /img/learning.jpeg
+bigimg: /img/learning.jpg
 ---
 
 Eğitim hayatının 18. yılında olan ve hala öğrenimine devam eden bir `öğrenci`  olarak eğitimin kendisi hakkında da sık sık kafa  yormuşumdur. Sanırım lise yıllarımda içerisinde bulunduğum ortam şartları beni bu konu hakkında daha fazla düşünmeye zorladı. Üniversiteye daha yoğun hazırlanmaya başladığımız dönemde evim okula oldukça uzaktı ve yolda çok fazla zaman kaybediyordum. İki otobüs kullanıyor ve otobüsten indikten sonra 7-8 dakikalık bir bisiklet yolculuğum oluyordu. Eve geldikten sonra yoruluyor, uzunca bir süre dinlenmem gerekiyordu. Bir de benim tembelliğimi ekleyin üstüne... Az çalışıp iyi sonuç almak istiyordum. Çok çalışmak ayıp, zaman israfıydı... Eğer bir saat ders çalıştıysam en azından yarım saat plan yapmışımdır. O zamanı çalışarak harcasam daha mı iyi olurdu? Emin değilim. İyi kötü, sonuç odaklı öğrenmeyi, kendimi tanımayı, düzenli olmanın etkilerini, kendi çalışma tekniklerimi geliştirmeyi öğrendim. Mesela, bir süre sonra planlama işini, uyumadığım zamanlarda, otobüste yapabileceğimi fark ettim. Sınavlarda yanlış yaptığım ve emin olmadan cevapladığım sorular üzerinden geçmeye başladım. Puanlama sistemini iyi etüt ederek, arkadaşlarımın aksine, önemli konulara daha çok zaman ayırdım. Zor konularda daha çok kafa yormanın, derslerle alakalı alakasız, kapasitemi arttıracağını düşünerek zor konularla uğratım: görelilik teorisi ve bazı felsefi konular. 
