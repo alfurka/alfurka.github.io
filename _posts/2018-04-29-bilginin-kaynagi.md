@@ -4,7 +4,7 @@ title: Bilginin Kaynağı
 subtitle: Eğitime Dair Notlar - 3
 tags: [bilgi, eğitim, felsefe, düşünce]
 image: /img/jrr.jpeg
-bigimg: /img/path.png
+bigimg: /img/path.jpg
 ---
 
 Kitaplarını okumuş ve filmlerini en az otuzar defa seyretmiş birisi olarak, Yüzüklerin Efendisi serisinden ne kadar çok şey öğrendiğimi anlatmak istiyorum. Her ne kadar hikayenin ismi Yüzüklerin Efendisi olsa da Ortadünyada geçen bu hikayenin beslendiği kaynak Hobbitköy, Shire'dir. Hobbit kitabında, konforuna düşkün bir Hobbitin yola çıktıktan sonra yaşadığı değişim hem kitap boyunca hissedilir hem de tüm hikaye gözden geçirildiğinde fark edilir. Bu değişimi her okuyucu/seyirci fark edemez. Yüzüklerin Efendisinin iki tür "okuyucusu" vardır: (1) Hikayeye/Maceraya önem verenler; (2) hayret, heyecan ve hayranlık duyanlar. Önceki cümlede "okuyucudan" kast ettiğim nokta "kitabı okuyanlar" değildi. Film de "okunabilir". Ama denebilir ki 1. kategorideki kişiler daha çok filmi seyredeler, "okumazlar" ya da kitabı okurlar ama "okumazlar". Okumak fiilinin ikinci anlamı çok önemlidir; "püff" denilemeyecek bir detaydır. 
