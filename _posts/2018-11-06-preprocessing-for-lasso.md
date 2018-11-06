@@ -21,7 +21,7 @@ model = Pipeline([('poly', PolynomialFeatures()),
                   ('model', Lasso(alpha=0.01))])
 ```
 
-**Note**: You must carefully regularize the`alpha` value. Try to create test functions to find the optimum.  LASSO is very sensitive both to regularization and 
+**Note**: You must carefully regularize the`alpha` value. Try to create test function to find the optimum.  LASSO is very sensitive to both regularization and preprocessing.
 
 See documentations:
 
