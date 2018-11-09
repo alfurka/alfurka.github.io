@@ -18,14 +18,18 @@ Therefore, among the others, normalization is one of the most important preproce
 #### Min-Max Scaling
 
 One of the commonly used techniques is using min-max scaling. It is very straightforward: 
+
+
 $$
+\begin{equation}
 X_{i} ^{S} = \dfrac{X_i - X_{min}}{X_{max} - X_{min}}
+\end{equation}
 $$
 Note that Min-Max scaling is very sensitive to the outliers. 
 
 #### Decimal Scaling
 
-Your data may contain a variable with very extreme values like `house prices` . Its weight is likely to diverge during stochastic gradient descent. If such values are not frequent you can simply apply decimal scaling by dividing it, say, $ 1e4 ​$. 
+Your data may contain a variable with very extreme values like `house prices` . Its weight is likely to diverge during stochastic gradient descent. If such values are not frequent you can simply apply decimal scaling by dividing it, say, $ 1e4 $. 
 
 #### Eliminating Outliers
 
@@ -34,33 +38,55 @@ It might be very efficient if you eliminate the outliers with or without using o
 #### Z-score normalization or Standardization
 
 It is one of the most common standardization technique. You find the z-scores of your variables on their own distribution. 
+
+
 $$
+\begin{equation}
 X_i ^S = (X_i - mean(X_i)) * std(X_i)
+\end{equation}
 $$
+
+
 However, it is efficient only if your data is Gaussian-like distributed. It is also sensitive to the outliers. 
 
 #### Mean / Median Absolute Deviation
 
 It is insensitive to the outliers but does not contain the input variances as raw data is. It also means it can be used as a [data augmentation](https://www.google.com.au/search?q=data+augmentation&oq=data+augmentation&aqs=chrome..69i57j0l5.2309j0j7&sourceid=chrome&ie=UTF-8). But it does not increase the number of observations, only increases the number of variables. 
+
+
 $$
+\begin{equation}
 X_i ^S = \dfrac{X_i - mean(X_i)}{N} \qquad \text{or} \qquad  X_i ^S = \dfrac{X_i - median(X_i)}{N}
+\end{equation}
 $$
+
+
 
 It also resembles the using [polynomial feature](https://alfurka.github.io/2018-11-06-preprocessing-for-lasso/) parameters. 
 
 #### (Modified) Tanh Estimator
 
 Tanh estimators are considered to be more efficient and robust normalization technique. It is not sensitive to outliers and it also converges faster than Z-score normalization. It yields values between -1 and 1 ($ X_i \in [-1, 1] $). 
+
+
 $$
+\begin{equation}
 X_i ^S = 0.5 * tanh \Big [  0.01 * \dfrac{X_i - mean(X_i)}{std(X_i)} \Big]
+\end{equation}
 $$
 
 #### Max-Scaling
 
 It resembles the min-max scaling but it is more efficient. 
+
+
 $$
+\begin{equation}
 X_i ^S = X_i / max(X_i)
+\end{equation}
 $$
+
+
 *Which one should we use?*
 
 This question really depends on your data and model. On the other hand the last two are more appropriate in general than others. You should also consider the eliminating outliers before training and s[ee further discussion here](https://research.ijcaonline.org/volume32/number10/pxc3875530.pdf).
