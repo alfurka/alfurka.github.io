@@ -25,6 +25,7 @@ $$
 X_{i} ^{S} = \dfrac{X_i - X_{min}}{X_{max} - X_{min}}
 \end{equation}
 $$
+
 Note that Min-Max scaling is very sensitive to the outliers. 
 
 #### Decimal Scaling
@@ -74,6 +75,7 @@ $$
 X_i ^S = 0.5 * tanh \Big [  0.01 * \dfrac{X_i - mean(X_i)}{std(X_i)} \Big]
 \end{equation}
 $$
+
 
 #### Max-Scaling
 
