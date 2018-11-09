@@ -25,9 +25,9 @@ Note that Min-Max scaling is very sensitive to the outliers.
 
 #### Decimal Scaling
 
-Your data may contain a variable with very extreme values like `house prices` . Its weight is likely to diverge during stochastic gradient descent. If such values are not frequent you can simply apply decimal scaling by dividing it, say, $1e4$. 
+Your data may contain a variable with very extreme values like `house prices` . Its weight is likely to diverge during stochastic gradient descent. If such values are not frequent you can simply apply decimal scaling by dividing it, say, $ 1e4 $. 
 
- #### Eliminating Outliers
+#### Eliminating Outliers
 
 It might be very efficient if you eliminate the outliers with or without using other normalization techniques. I mean really `outliers`, do not drop $1\%$ quantiles from the beginning. 
 
