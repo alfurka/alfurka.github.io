@@ -2,7 +2,7 @@
 layout: post
 title: Preprocessing for Neural Networks: Normalization Techniques
 subtitle: Scaling, standardization, and so on
-tags: [neural networks, preprocessing, standardization, normalization]
+tags: [machine learning, neural networks, preprocessing, standardization, normalization]
 image: /img/brain-neural.png
 bigimg: /img/brain-background.jpg
 ---
