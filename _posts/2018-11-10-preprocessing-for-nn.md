@@ -25,11 +25,11 @@ Note that Min-Max scaling is very sensitive to the outliers.
 
 #### Decimal Scaling
 
-Your data may contain a variable with very extreme values like `house prices` . Its weight is likely to diverge during stochastic gradient descent. If such values are not frequent you can simply apply decimal scaling by dividing it, say, $ 1e4 $. 
+Your data may contain a variable with very extreme values like `house prices` . Its weight is likely to diverge during stochastic gradient descent. If such values are not frequent you can simply apply decimal scaling by dividing it, say, $ 1e4 ​$. 
 
 #### Eliminating Outliers
 
-It might be very efficient if you eliminate the outliers with or without using other normalization techniques. I mean really `outliers`, do not drop $1\%$ quantiles from the beginning. 
+It might be very efficient if you eliminate the outliers with or without using other normalization techniques. I mean really `outliers`, do not drop $ 1\% $ quantiles from the beginning. 
 
 #### Z-score normalization or Standardization
 
@@ -50,7 +50,7 @@ It also resembles the using [polynomial feature](https://alfurka.github.io/2018-
 
 #### (Modified) Tanh Estimator
 
-Tanh estimators are considered to be more efficient and robust normalization technique. It is not sensitive to outliers and it also converges faster than Z-score normalization. It yields values between -1 and 1 ($X_i \in [-1, 1]$). 
+Tanh estimators are considered to be more efficient and robust normalization technique. It is not sensitive to outliers and it also converges faster than Z-score normalization. It yields values between -1 and 1 ($ X_i \in [-1, 1] $). 
 $$
 X_i ^S = 0.5 * tanh \Big [  0.01 * \dfrac{X_i - mean(X_i)}{std(X_i)} \Big]
 $$
