@@ -12,23 +12,35 @@ As far as I see in articles and in Kaggle competitions, people do not bother to 
 ### Why you should tune hyperparameters? 
 
 Consider the Ordinary Least Squares:
+
+
 $$
 \begin{equation}
 \mathcal{L}_{OLS} = ||Y-X^T\beta||^2
 \end{equation}
 $$
+
+
 OLS minimizes the $ \mathcal{L} _{OLS}$ function by $\beta$ and solution, $\hat{\beta}$, is the Best Linear Unbiased Estimator (BLUE). However, by construction, ML algorithms are biased which is also why they perform good. For instance, LASSO only have a different minimization function than OLS which penalizes the large $\beta$ values:
+
+
 $$
 \begin{equation}
 \mathcal{L}_{LASSO}  = ||Y - X^T\beta||^2 + \lambda ||\beta||
 \end{equation}
 $$
+
+
 Ridge Regression have a similar penalty:
+
+
 $$
 \begin{equation}
 \mathcal{L}_{Ridge} = ||Y - X^T\beta||^2 + \lambda ||\beta||^2
 \end{equation}
 $$
+
+
 In other words, Ridge and LASSO are biased as long as $\lambda > 0$.  And other fancy-ML algorithms have bias terms with different functional forms. But why biased estimators work better than OLS if they are *biased*? Yes simply it is because they are biased. But note that, your bias may lead a worse result as well. And this is the critical point that explains why hyperparameter tuning is very important for ML algorithms. What we mean by it is finding the best bias term, $\lambda$. 
 
 ### Example
