@@ -24,6 +24,7 @@ description: My personal web page
 # List of links in the navigation bar
 navbar-links:
   About Me: "https://alfurka.github.io/2018-03-02-first-post/"
+  Machine Learning: "https://alfurka.github.io/tags/#machine%20learning"
   BIL 113E: "http://itueconomics.github.io/bil113e/"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
