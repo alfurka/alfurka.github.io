@@ -41,7 +41,7 @@ $$
 $$
 
 
-In other words, Ridge and LASSO are biased as long as $\lambda > 0$.  And other fancy-ML algorithms have bias terms with different functional forms. But why biased estimators work better than OLS if they are *biased*? Yes simply it is because they are biased. But note that, your bias may lead a worse result as well. And this is the critical point that explains why hyperparameter tuning is very important for ML algorithms. What we mean by it is finding the best bias term, $\lambda$. 
+In other words, Ridge and LASSO are biased as long as $\lambda > 0$.  And other fancy-ML algorithms have bias terms with different functional forms. But why biased estimators work better than OLS if they are *biased*? Yes simply it is because they are *good* biased. But note that, your bias may lead a worse result as well. And this is the critical point that explains why hyperparameter tuning is very important for ML algorithms. What we mean by it is finding the best bias term, $\lambda$. 
 
 ### Example
 
@@ -148,7 +148,7 @@ models2 = {'OLS': linear_model.LinearRegression(),
                                param_grid=ridge_params).fit(df[X], df[Y]).best_estimator_,}
 ```
 
-I search for `alpha` hyperparameter that performs best. `GridSearchCV`, by default, makes `K=3` cross validation. I did not change anything but `alpha` for simplicity. You should check more about [GridSearchCV](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html). On the other hand, you should converge the hyperparameters by yourself. Result:
+I search for `alpha` hyperparameter (which is represented as $ \lambda $ above) that performs best. `GridSearchCV`, by default, makes `K=3` cross validation. I do not change anything but `alpha` for simplicity. You should check more about [GridSearchCV](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html). On the other hand, you should converge the hyperparameters by yourself. Result:
 
 ```python
 test(models2, df)
@@ -161,7 +161,7 @@ test(models2, df)
 
 The OLS results are slightly different from the first estimation but it is because of random sample splitting. The difference become less with more iterations. 
 
-Now, both LASSO and Ridge performs better than OLS, but there is no considerable difference. Their performances can be increased by additional regularizations. But, I want to show a way that I mentioned in my previous articles: [Adding Polynomial Features](https://alfurka.github.io/2018-11-06-preprocessing-for-lasso/). I said it is an important preprocessing tool for LASSO but same goes for Ridge: 
+Now, both LASSO and Ridge performs better than OLS, but there is no considerable difference. Their performances can be increased by additional regularizations. But, I want to show a way that I mentioned in a article about [Polynomial Features](https://alfurka.github.io/2018-11-06-preprocessing-for-lasso/). I said it is an important preprocessing tool for LASSO but same goes for Ridge: 
 
 ```python
 lasso_params = {'fit__alpha':[0.005, 0.02, 0.03, 0.05, 0.06]}
@@ -181,7 +181,7 @@ models3 = {'OLS': pipe1,
                                  param_grid=ridge_params).fit(df[X], df[Y]).best_estimator_,}
 ```
 
-Note that hyperparameters have changed. You must search for the hyperparameter interval by yourself. 
+Note that hyperparameters have been changed. You must search for the hyperparameter interval by yourself. 
 
 ```python
 test(models3, df)
