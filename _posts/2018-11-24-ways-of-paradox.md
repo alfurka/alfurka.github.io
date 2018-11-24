@@ -23,17 +23,12 @@ Eğer Frederic’in 29 şubatta doğduğunu ve onun $ 4n$ yaşındayken sadece $
 Fallacy(Yanılgı) diye adlandırılan ve Quine’nin aslında paradoks dahi olamayacağını söylediği ikinci kategori için ise şu örnek verilebilir:
 
 
-
 $$
 \begin{equation}
 x = 1
 \end{equation}
 $$
-
-
 olsun. İki tarafı da x ile çarparsak:
-
-
 $$
 \begin{equation}
 x^2 = x
@@ -41,10 +36,7 @@ x^2 = x
 $$
 
 
-
 İki taraftan da 1 çıkarırsak:
-
-
 $$
 \begin{equation}
 x^2 - 1 = x - 1
@@ -52,23 +44,16 @@ x^2 - 1 = x - 1
 $$
 
 
-
 İki tarafı da $x - 1$ ifadesine bölersek:
-
-
 $$
 x + 1 = x
 $$
-
 $x = 1$ olduğu için:
-
-
 $$
 \begin{equation}
 2 = 1
 \end{equation}
 $$
-
 
 
 Burada sorunun kaynağı aslında $ x - 1 $ ifadesinin sıfır olması ve bizim bu ifadeyi kullanarak  $\frac{0}{0}$  işlemi yapmaya çalışmamız. Bu tabi ki matematiksel bir hata. Yani ortada paradokstan ziyade bir yanılgı (fallacy) var. 
@@ -96,7 +81,7 @@ Bu örnek yukarıda bahsettiğimiz iki paradoks türüne de girmiyor. Burada **a
 - Pseudomenon (Yalancı paradoksu): 
   - “Ben yalan söylüyorum” 
   - “Bu cümle yanlıştır.”
--  “En az 30 kelime ile ifade edilebilecek en küçük tam sayı.”: aslında bu sayıyı 11 kelime ile ifade edebiliyoruz. Böyle bir sayı var mı?
+- “En az 30 kelime ile ifade edilebilecek en küçük tam sayı.”: aslında bu sayıyı 11 kelime ile ifade edebiliyoruz. Böyle bir sayı var mı?
 
 Gibi pek çok çatışkıdan kurtulmaya çalışan Russel ve Tarski’nin açıklamasına göz atabiliriz. Biz “kısa” ve “uzun” sıfatlarının birbirleri için doğru veya yanlış olup olmadıklarını sorabiliriz ve cevap evet ya da hayırdır. Yani “uzun” “kısa” mıdır sorusuna evet ya da hayır diyebiliriz ama eğer farklı düzeylerden bir anlam içermiyorlarsa ““uzun” uzun mudur?” sorusu anlamsız bir sorudur. Yani Russel’a göre “kendine göndergeli” ifadeler *anlamsızdır*. 
 
@@ -135,5 +120,3 @@ Koyulabilecek her kısıt sistemin doğallığını ve işleyişini bozuyor. Ber
 Gödel, aksiyomlarla kurulan hiçbir çıkarımsal sistemin, tüm teoremlerini kuşatamayacağını, her zaman ispatlanamayan bir kısmının olabileceğini kabul etmek zorunda kaldığımızı göstermiştir (Eksiklik Teoremi).  
 
 Bunun paradokslarla alakası ne? Eğer paradoks sistemlerini kendi sistemi içerisinde düşünürsek bazı noktaların eksik kalması gerekir, yani doğruluğunu veya yanlışlığını bilemeyiz. Bu yüzden bazı önermelerimiz teorem değildir, onlara yanlış veya doğru diyemeyiz. Aslında doğru olsalar da… 
-
- 
