@@ -23,12 +23,17 @@ Eğer Frederic’in 29 şubatta doğduğunu ve onun $ 4n$ yaşındayken sadece $
 Fallacy(Yanılgı) diye adlandırılan ve Quine’nin aslında paradoks dahi olamayacağını söylediği ikinci kategori için ise şu örnek verilebilir:
 
 
+
 $$
 \begin{equation}
 x = 1
 \end{equation}
 $$
+
+
 olsun. İki tarafı da x ile çarparsak:
+
+
 $$
 \begin{equation}
 x^2 = x
@@ -36,7 +41,10 @@ x^2 = x
 $$
 
 
+
 İki taraftan da 1 çıkarırsak:
+
+
 $$
 \begin{equation}
 x^2 - 1 = x - 1
@@ -44,16 +52,26 @@ x^2 - 1 = x - 1
 $$
 
 
+
 İki tarafı da $x - 1$ ifadesine bölersek:
+
+
 $$
+\begin{equation}
 x + 1 = x
+\end{equation}
 $$
+
+
 $x = 1$ olduğu için:
+
+
 $$
 \begin{equation}
 2 = 1
 \end{equation}
 $$
+
 
 
 Burada sorunun kaynağı aslında $ x - 1 $ ifadesinin sıfır olması ve bizim bu ifadeyi kullanarak  $\frac{0}{0}$  işlemi yapmaya çalışmamız. Bu tabi ki matematiksel bir hata. Yani ortada paradokstan ziyade bir yanılgı (fallacy) var. 
