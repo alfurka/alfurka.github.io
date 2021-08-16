@@ -15,6 +15,6 @@ My name is Ali Furkan. I am a Ph.D. student in Economics at the University of Qu
 
 I am also a chess enthusiast ([My Lichess account](https://lichess.org/@/alfurka/perf/rapid)) and podcast publisher ([Cahil Hoca](https://cahilhoca.com/) - in Turkish). 
 
-You can access my research/work and read my blog from alfurka.github.io. The blog contains short articles about econometrics (statistics/machine learning), software (Python & R programming and others), education (in Turkish), and my `irrelevant` thoughts. 
+You can access my research/work and read my blog from alfurka.github.io. The blog contains short articles about econometrics (statistics/machine learning), software (Python & R programming and others), education (in Turkish), and my *irrelevant* thoughts. 
 
 Ali Furkan Kalay
