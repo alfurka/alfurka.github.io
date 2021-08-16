@@ -5,7 +5,7 @@ subtitle: Welcome to my portfolio.
 gh-repo: alfurka/alfurka.github.io
 gh-badge: [star, fork, follow]
 tags: [first, blog]
-image: /img/hello_world.jpeg
+image: /img/avatar.JPG
 lang: en
 ---
 
