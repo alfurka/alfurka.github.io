@@ -11,14 +11,12 @@ lang: en
 
 Hello! 
 
-My name is Ali Furkan. I will start to share my knowledge and experiences here from now on. I actually have a very long experience in blogging but had paused for a long time. It feels weird to restart blogging :)
+My name is Ali Furkan. I am a Ph.D. student in Economics at the University of Queensland. My primary field is theoretical and applied econometrics. I have a particular interest in matching estimators, spatial models, and peer effects in network models.
 
-Anyway, I should talk about myself a little. I am an economist, or rather an economist student to be honest, currently studying master at Istanbul Technical University. My research interests are: econometrics and microeconomic theory. The sub-research fields can be listed as: machine learning, individual preferences and demand systems, big data, and so on. 
+I am also a chess enthusiast ([My Lichess account](https://lichess.org/@/alfurka/perf/rapid)
+) and podcast publisher ([Cahil Hoca](https://cahilhoca.com/)
+- in Turkish). 
 
-One who knows me can say that 'you are a whimsical person', because my 'unprofessional' interests take important place in my life. I also study some  philosophical, historical and political issues. I never consider any subject independent from another. (see [Joseph Jacotot](https://www.google.com.tr/search?q=joseph+jacotot&oq=joseph+jacotot&aqs=chrome..69i57j0l5.2593j0j7&sourceid=chrome&ie=UTF-8))
+You can access my research/work and read my blog from alfurka.github.io. The blog contains short articles about econometrics (statistics/machine learning), software (Python & R programming and others), education (in Turkish), and my thoughts. 
 
-The reason I start to blogging is actually to test my ideas and take notes that might help me or other people. It creates opportunity to reevaluate myself and to listen other people reviews. I am no such selfish person :). I believe that my sharing would be helpful for other people who have similar interests. It has no meaning to create new thoughts without sharing.
-
-Hopefully my intention does not remain like a flash-in-the-pan. 
-
-Ali Furkan
+Ali Furkan Kalay
