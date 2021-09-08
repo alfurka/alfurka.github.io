@@ -25,6 +25,7 @@ description: My personal web page
 navbar-links:
   About Me: "https://alfurka.github.io/2018-03-02-first-post/"
   BIL 113E: "http://itueconomics.github.io/bil113e/"
+  Podcast (Turkish): "https://cahilhoca.com/"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
