@@ -151,6 +151,7 @@ Solution is:
 solution = pd.DataFrame(beta.reshape(1,-1), columns=regressor_list)
 solution
 ```
-|       |ones    | prog1   | prog2   |   math|
-| --- | --- | --- | --- | --- |
-|0 | 4.877315|  0.369809| -0.71405| -0.070152|
+
+||    ones | prog1|  prog2|  math  |
+|--|    ------ | ----|  --|  --  |
+| 0 | 4.877315|  0.369809| -0.71405| -0.070152|
