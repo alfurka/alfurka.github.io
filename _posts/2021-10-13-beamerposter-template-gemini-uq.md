@@ -9,7 +9,7 @@ bigimg: /img/code.jpg
 This is a modified [beamerposter](https://ctan.org/pkg/beamerposter?lang=en) template with the University of Queensland logo and colors. It is forked from [here](https://rev.cs.uchicago.edu/k4rtik/gemini-uccs) (which is forked from [here](https://github.com/anishathalye/gemini)). 
 
 - [Repository](https://github.com/alfurka/gemini-uq)
-- [Overleaf Gallery](https://www.overleaf.com/latex/templates/uq-beamerposter-template/svbpbndqdpqv](https://www.overleaf.com/latex/templates/uq-beamerposter-template/svbpbndqdpqv)
+- [Overleaf Gallery](https://www.overleaf.com/latex/templates/uq-beamerposter-template/svbpbndqdpqv)
 
 ### Screenshot
 
