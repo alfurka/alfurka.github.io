@@ -13,7 +13,7 @@ Here is a script I wrote to generate patterns of categorical variables. I was tr
 
 I require the following Python packages:
 
-```{python}
+```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 
 I randomly generate some integers representing categorical/dummy variables:
 
-```{python}
+```python
 n=100
 np.random.seed(1)
 df = pd.DataFrame([np.random.randint(0,3, n), np.random.randint(0,2, n), np.random.randint(0,3, n)]).T
@@ -39,7 +39,7 @@ The output looks like this:
   
 Here is a script that find the frequency of each pattern:
   
-```{python}
+```python
 temp_df = df.copy()
 patterns = {}
 for i in range(temp_df.shape[0]):
@@ -59,7 +59,7 @@ This function:
 
 The output looks like that:
 
-```{python}
+```python
 plt.figure(figsize=(10,6))
 plt.bar(patterns.keys(), patterns.values())
 plt.xticks(rotation='vertical')
