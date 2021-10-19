@@ -15,7 +15,7 @@ I saw this kind of alternative assumption definition in other papers, such as:
 
 Here we define two alternative assumptions. How to do it in Latex with `\newtheorem' command. For example, if we define an assumption in the following way:
 
-```{Latex}
+```latex
 \newtheorem{assumption}{Assumption}
 
 ....
@@ -33,7 +33,7 @@ Here we define two alternative assumptions. How to do it in Latex with `\newtheo
 
 I now define the following `assumptionp`:
 
-```{latex}
+```latex
 \newtheorem{assumption}{Assumption}
 
 % Alternative Assumption!
@@ -48,7 +48,7 @@ I now define the following `assumptionp`:
 
 For alternative assumption, we define `assumptionalt` as a new theorem. It uses `assumption` as parent counter ([assumption]). Then we define a new environment `assumptionp`. It takes one argument, which will allow us to customize the section name. Examples:
 
-```{Latex}
+```latex
 \begin{assumption}
 First one
 \end{assumption}
