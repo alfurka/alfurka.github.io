@@ -29,13 +29,13 @@ df.head()
 ```
 The output looks like this: 
 
-        0   1   2
-  --- --- --- ---
-  0     1   0   1
-  1     0   1   2
-  2     0   1   1
-  3     1   1   1
-  4     1   1   0
+|   |  0|   1|   2|
+|---| ---| ---| ---|
+0    | 1  | 0  | 1|
+1    | 0  | 1  | 2|
+2    | 0  | 1  | 1|
+3    | 1  | 1  | 1|
+4    | 1  | 1  | 0|
   
 Here is a script that find the frequency of each pattern:
   
