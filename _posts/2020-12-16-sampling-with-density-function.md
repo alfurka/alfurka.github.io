@@ -11,7 +11,7 @@ In my research, I needed to use nonparametric sampling methods recently. I neede
 
 Suppose we have the following data generating process:
 
-```{R}
+```r
 N.sample = 100 # number of observations in my data
 set.seed(111)
 U =runif(N.sample) # sample draw from uniform distribution
@@ -36,7 +36,7 @@ That has the following density:
 
 After estimating the density function, I generated the cumulative distribution function
 
-```{R}
+```r
 f.dens = density(data)
 cdf.estimate = cumsum(f.dens$y) / cumsum(f.dens$y)[length(f.dens$y)] 
 # Here I make sure that the last value in CDF is 1.
@@ -48,7 +48,7 @@ plot(cdf.estimate, type = 'l', main='Cumulative Distribution')
 
 Now we can draw a sample from the estimated density function:
 
-```{R}
+```r
 N.draw = 1000
 gen.sample = replicate(N.draw, f.dens$x[findInterval(runif(1), cdf.estimate)+1])
 ```
@@ -57,7 +57,7 @@ I draw 1000 observations by repeating the function `f.dens$x[findInterval(runif(
 
 The sample draw density and the first density function looks like as follow:
 
-```{R}
+```r
 plot(f.dens)
 lines(density(gen.sample),col='red')
 legend('topleft',legend=c('Density Function estimate', 
