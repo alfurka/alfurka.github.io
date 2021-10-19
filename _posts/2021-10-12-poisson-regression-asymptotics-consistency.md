@@ -54,7 +54,7 @@ $$\beta _{t+1} = \beta _t + \dfrac{\partial ^2 L(\beta )}{\partial \beta \partia
 
 I use the following Python packages:
 
-```{Python}
+```python
 import pandas as pd
 import numpy as np
 from scipy.special import factorial
@@ -62,7 +62,7 @@ from scipy.special import factorial
 
 I import a data set:
 
-```{Python}
+```python
 data = pd.read_csv('https://stats.idre.ucla.edu/stat/data/poisson_sim.csv')
 data['ones'] = 1
 data['prog1'] = pd.get_dummies(data.prog).values[:,0]
@@ -88,7 +88,7 @@ The first ten observations in the data set:
 
 I define matrix $X$ and $y$ as follows:
 
-```{Python}
+```python
 regressor_list = ['ones','prog1','prog2','math']
 
 X = data[regressor_list].values
@@ -97,7 +97,7 @@ y = data.values[:,1]
 
 I now define four functions, respectively, for $\lambda _i$, $LL(\beta)$, $\dfrac{\partial L(\beta )}{\partial \beta }$, and $\dfrac{\partial ^2 L(\beta )}{\partial \beta \partial \beta '}$:
 
-```{Python}
+```python
 # For Lambda_i
 def poisson_lambda(x,beta): return np.exp(-np.dot(x, beta))
 
@@ -115,7 +115,7 @@ def LL_D2(x, y, beta):
 ```
 Implementing Newton's algorithm described above:
 
-```{Python}
+```python
 max_iter = 100 # Maximum number of iterations
 beta = np.array([0,0,0,0]) # Initial guess for beta vector
 
@@ -147,7 +147,7 @@ The result:
 
 Solution is:
 
-```{Python}
+```python
 solution = pd.DataFrame(beta.reshape(1,-1), columns=regressor_list)
 solution
 ```
