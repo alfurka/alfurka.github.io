@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research and Publications
+title: Research
 ---
 
 ## Published Work
