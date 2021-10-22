@@ -18,7 +18,7 @@ use-site-title: true
     </a>
 
     <p class="post-meta">
-      Tarih {{ post.date | date: "%d.%m.%Y" }}
+      Posted on {{ post.date | date: "%d.%m.%Y" }}
     </p>
 
     <div class="post-entry-container">
@@ -59,12 +59,12 @@ use-site-title: true
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Yeni Yazılar</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Eski Yazılar &rarr;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
   </li>
   {% endif %}
 </ul>
