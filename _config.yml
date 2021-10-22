@@ -24,12 +24,8 @@ description: My personal web page
 # List of links in the navigation bar
 navbar-links:
   About Me: "https://alfurka.github.io/2018-03-02-first-post/"
-  BIL 113E: "http://itueconomics.github.io/bil113e/"
   Podcast (Turkish): "https://cahilhoca.com/"
-#  Resources:
-#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#    - Learn markdown: "http://www.markdowntutorial.com/"
-#    - GitHub Pages: "https://pages.github.com/"
+
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -129,7 +125,7 @@ url-pretty: "alfurka.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 10
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
@@ -142,7 +138,7 @@ timezone: "Europe/Istanbul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 3
+paginate: 1
 
 kramdown:
   input: GFM
