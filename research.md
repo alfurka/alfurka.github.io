@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Research - Ali Furkan Kalay
 ---
 
 I am currently working on my Ph.D. thesis entitled `Essays on Administrative Data Methodologies.` Administrative data are increasingly becoming available for research purposes while possessing unique statistical challenges. My thesis aims to address some of these statistical challenges and discover the potential uses of administrative data in economic research.
