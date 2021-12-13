@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elevations of a Polygon - A Python Script
-subtitle: A Python script to generate mesh grid of a polygon and retrives elevation data from open-elevation.com
+subtitle: A Python script to generate mesh grid of a polygon and retrive elevation data from open-elevation.com
 tags: [polygon, python, script]
 image: /img/hoca.jpg
 bigimg: /img/code.jpg
