@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elevation of a Polygon - A Python Script
+title: Elevations of a Polygon - A Python Script
 subtitle: A Python script to generate mesh grid of a polygon
 tags: [polygon, python, script]
 image: /img/hoca.jpg
