@@ -7,14 +7,14 @@ image: /img/hoca.jpg
 bigimg: /img/code.jpg
 ---
 
-The purpose of this script is to generate a mesh grid within a Polygon. The coordinates of the mesh grid is then used to get elevation data from a public API: api.open-elevation.com. The current script can be easly adjust for other APIs. The output of the script are (1) the coordinates within the polygon and (2) elevations of the coordinates. Data can be used for various purposes. The script can be found in my repository: [PolygonElevations](https://github.com/alfurka/PolygonElevations). The script file is: `PolygonElevations.py`
+The purpose of this script is to generate a mesh grid within a Polygon. The coordinates of the mesh grid is then used to get elevation data from a public API: api.open-elevation.com. The script can be easly adjusted for other APIs. The output of the script are (1) the coordinates within the polygon and (2) elevations of the coordinates. Data can be used for various purposes. The script can be found in my repository: [PolygonElevations](https://github.com/alfurka/PolygonElevations). The script file is: `PolygonElevations.py`
 
 **PolygonElevations.Client(polygon, resolution = 100, chunk_size = 50, sleep_time = 0)**:
 
 - `polygon`: A shapely.geometry.Polygon object. 
 - `resolution` (Integer): he number of grid points in one axes. The number increases at rate resolution^2. 
 - `chunk_size`: the number of elevation points sent to open-elevation.com. Requests for large numbers could be rejected.
-- `sleet_time` (seconds): If large number of points are required, Open-elevation can block user. sleep_time slows down the data requests. 
+- `sleep_time` (seconds): If large number of points are required, Open-elevation can block user. sleep_time slows down the data requests. 
 
 ### Requirements
 
