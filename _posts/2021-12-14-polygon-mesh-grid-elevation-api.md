@@ -56,7 +56,7 @@ my_client = Client(istanbul, resolution = 100, chunk_size = 100)
 ```Python
 my_client.plot_polygon()
 ```
-![](img/istanbul_poly.png)
+![](/img/istanbul_poly.png)
 
 `plot_polygon()` function can take arguments for [matplotlib.pyplot.plot](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html). For example:
 
@@ -64,7 +64,7 @@ my_client.plot_polygon()
 my_client.plot_polygon(color='red')
 ```
 
-![](img/istanbul_poly_red.png)
+![](/img/istanbul_poly_red.png)
 
 ### Getting Elevation Data
 
@@ -88,7 +88,7 @@ my_client.get_data()
 my_client.plot_elevation()
 ```
 
-![](img/istanbul_elev.png)
+![](/img/istanbul_elev.png)
 
 `plot_elevation()` function can take arguments for [matplotlib.pyplot.scatter](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html). For example:
 
@@ -96,4 +96,4 @@ my_client.plot_elevation()
 my_client.plot_elevation(marker = 's')
 ```
 
-![](img/istanbul_elev_sq.png)
+![](/img/istanbul_elev_sq.png)
