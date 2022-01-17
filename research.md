@@ -15,4 +15,4 @@ I am currently working on my Ph.D. thesis entitled `Essays on Administrative Dat
 
 ## Work-in-progress
 
-- Forecasting House Sales in Turkey Using Google Trends (with `Yi Zhang`)
+- Forecasting House Sales in Turkey (with `Yi Zhang`)
