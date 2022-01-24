@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lazy (Deferred) Loading YouTube Videos in Jekyll Posts
+title: "Lazy (Deferred) Loading YouTube Videos in Jekyll Posts"
 subtitle: A JavaScript for Easy Embedding Youtube Videos 
 tags: [lazy-load,youtube,video,jekyll]
 image: /img/avatar-icon.png
