@@ -6,7 +6,7 @@ tags: [lazy-load,youtube,video,jekyll]
 image: /img/avatar-icon.png
 ---
 
-I noticed that my Jekyll posts with YouTube videos open very slow. I checked `pagespeed.web.dev` and got 30/100 score for video-embedded posts. Using the script in this [repository](https://github.com/groupboard/ytdefer) I created a simple method that easily embeds YouTube videos into Jekyll posts. With this lazy-loading script, my posts get 71/100 score. It is easy to implement and use. 
+I noticed that my Jekyll posts with YouTube videos open very slow. I checked `pagespeed.web.dev` and got 30/100 score for video-embedded posts. Using the script in this [repository](https://github.com/groupboard/ytdefer), I created a simple method that easily embeds YouTube videos into Jekyll posts. With this lazy-loading script, my posts get 71/100 score. It is easy to implement and use. 
 
 You can download the files from [my repository](https://github.com/alfurka/jekyll-embed-youtube-lazy-load). 
 
@@ -14,21 +14,12 @@ You can download the files from [my repository](https://github.com/alfurka/jekyl
 
 1. Download [ytdefer.min.js](https://github.com/alfurka/jekyll-embed-youtube-lazy-load/blob/main/ytdefer.min.js) from this repository. 
 2. Upload `ytdefer.min.js` to your Jekyll repository (server). JavaScripts files are usually contained `assets` folder.  
-3. Create `youtube.html` as follows and save it in `_includes` folder. 
+3. Download `youtube.html` from [here](https://github.com/alfurka/jekyll-embed-youtube-lazy-load) and upload it to your Jekyll server/repository's folder `_includes`. 
+4. Add the following line into your posts where you want to embed the video. 
 
-`youtube.html`:
-
-```{html}
-<script src="/assets/ytdefer.min.js"></script>
-
-<div style="margin:auto;width:380px;height:250px;max-width:95%;" class="ytdefer" data-alt="some-alt-text-here" data-title="some-alt-text-here" data-src="{{ include.id }}"></div>
-
-<script>
-window.addEventListener('load', ytdefer_setup);
-</script>
 ```
-
-4. Add `{% include youtube.html id='YOUTUBE-VIDEO-ID' %}` into your posts where you want to embed the video. 
+{% include youtube.html id='YOUTUBE-VIDEO-ID' %}
+```
 
 Example Jekyll post layout embedding a YouTube video (https://www.youtube.com/watch?v=ZzeF6SducfQ):
 
