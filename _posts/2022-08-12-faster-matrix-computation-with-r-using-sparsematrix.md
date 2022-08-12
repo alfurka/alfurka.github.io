@@ -15,7 +15,7 @@ n = 1000
 set.seed(1)
 X = matrix(sample(0:1, size = n * n, 
                   replace = T, 
-                  prob = c(0.9,0.1)), 
+                  prob = c(0.8,0.2)), 
            ncol = n )
 ```
 
