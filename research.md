@@ -11,7 +11,8 @@ I am currently working on my Ph.D. thesis entitled `Essays on Administrative Dat
 
 ## Working Paper
 
-- [Double Robust Mass-Imputation with Matching Estimators](https://arxiv.org/abs/2110.09275) , *First chapter of my Ph.D. thesis.*, (2021). [[Poster](https://alfurka.github.io/myfiles/Poster_Presentation.pdf)]
+- [Double Robust Mass-Imputation with Matching Estimators](https://arxiv.org/abs/2110.09275) (2021). [[Poster](https://alfurka.github.io/myfiles/Poster_Presentation.pdf)] 
+- Generating Synthetic Data Using $K$-Nearest Neighbors (2022). [[Software](https://pepy.tech/project/synloc)]
 
 ## Work-in-progress
 
