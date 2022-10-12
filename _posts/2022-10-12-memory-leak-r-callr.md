@@ -8,7 +8,7 @@ image: /img/hello_world.jpeg
 
 I have been working with huge samples recently. When you work with large samples, memory leak is a common problem. I have been extensively using garbage collector, but it is not helping much. So, you need to write your codes efficiently.
 
-No matter what you do, there are limits. I have been struggling with one of them. I resolved that problem using callr. It will change the way I code with R dramatically from now on.
+No matter what you do, there are limits. I have been struggling with one of them. I resolved that problem using [callr](https://callr.r-lib.org/). 
 
 I often prefer to learn these packages with examples, but I could not find any. So, I here share an example for people who may need it.
 
