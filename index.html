@@ -13,10 +13,10 @@ use-site-title: true
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h3 class="post-title">{{ post.title }}</h2>
+	  <h2 class="post-subtitle">{{ post.title }}</h2><!-- changed the class: class="post-title" -->
 
 	  {% if post.subtitle %}
-	  <h4 class="post-subtitle">
+	  <h3 class="post-subtitle">
 	    {{ post.subtitle }}
 	  </h3>
 	  {% endif %}
