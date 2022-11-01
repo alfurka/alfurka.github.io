@@ -169,12 +169,12 @@ img {
 .navbar-custom .avatar-container {
   position: absolute;
   left: 50%;
-  width: 100px;
+  width: 50px;
   margin-top: -25px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 100%;
-  border-radius: 80%;
+  border-radius: 50%;
   margin-left: -50%;
   display: inline-block;
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
@@ -183,7 +183,7 @@ img {
 }
 .navbar-custom .avatar-container  .avatar-img {
   width: 100%;
-  border-radius: 80%;
+  border-radius: 50%;
   display: block;
 }
 
@@ -193,7 +193,7 @@ img {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
-    width: 150px;
+    width: 100px;
     margin-top: -50px;
   }
 
