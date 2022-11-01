@@ -258,20 +258,19 @@ img {
   }
 }
 
-.profile-photo div {
+.profile-photo img {
   float:left;
-  display: block;
   margin: 5px;
-  width: 200px;
+  width: 150px;
 }
 
 @media only screen and (min-width:600px) {
-  .profile-photo div {
+  .profile-photo img {
     float:none;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 200px;
+    width: 150px;
   }
 }
 
