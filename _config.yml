@@ -23,6 +23,7 @@ description: My personal web page
 
 # List of links in the navigation bar
 navbar-links:
+  About: "https://alfurka.github.io/"
   Research: "https://alfurka.github.io/research/"
   Blog: "https://alfurka.github.io/blog/"
   Podcast (Turkish): "https://cahilhoca.com/"
