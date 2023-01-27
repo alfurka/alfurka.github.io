@@ -8,15 +8,15 @@ use-site-title: true
 
 <p>I am also a chess enthusiast (<a href="https://lichess.org/@/alfurka/perf/rapid">My Lichess account</a>) and podcast publisher (<a href="https://cahilhoca.com/">Cahil Hoca</a> - in Turkish).</p>
 
-<p><strong>Contact:</contact> a.kalay[at]uq.edu.au</p>
+<p><strong>Contact:</strong> a.kalay[at]uq.edu.au</p>
 
 <div style="clear:both"></div>
 
 <div class="posts-list">
-  <h2 class="post-title">Blog Posts</h2>
+  <h3 class="post-title">Blog Posts</h3>
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h3 style="color:black">{{ post.title }}</h3>
+	  <h4 style="color:black">{{ post.title }}</h4>
     </a>
   {% endfor %}
 </div>
