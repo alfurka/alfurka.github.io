@@ -11,27 +11,3 @@ use-site-title: true
 <p><strong>Contact:</strong> a.kalay[at]uq.edu.au</p>
 
 <div style="clear:both"></div>
-
-<div class="posts-list">
-  <h3 class="post-title">Blog Posts</h3>
-  {% for post in paginator.posts %}
-    <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h4 style="color:black">{{ post.title }}</h4>
-    </a>
-  {% endfor %}
-</div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
