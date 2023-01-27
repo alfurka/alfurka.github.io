@@ -1,0 +1,14 @@
+---
+layout: page
+title: Ali Furkan Kalay
+use-site-title: true
+---
+
+<div class="posts-list">
+  <h2 class="post-title">Blog Posts</h2>
+  {% for post in paginator.posts %}
+    <a href="{{ post.url | prepend: site.baseurl }}">
+	  <h3 style="color:black">{{ post.title }}</h3>
+    </a>
+  {% endfor %}
+</div>
