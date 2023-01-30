@@ -16,4 +16,4 @@ Here are some recommendations:
   - You can also use `control=list(stop.complexity=0.1)` to set the maximum complexity of the tree to 0.1. This can also help to prevent overfitting by stopping the CART algorithm before it becomes too complex.
 - To create smoothed continuous values, set `smoothing='density'` or `smoothing='spline'`. The package creators recommend using `smoothing='spline'`.
   - When using the smoothing parameter, it's important to note that you can also use `smoothing=list(var1='density', var2='spline')` to specify different smoothing methods for different variables.
-- It's also important to keep in mind that it's a good practice to evaluate the quality of the synthetic data using various metrics such as the mean squared error, and to consult with experts if you are unsure about the results obtained.
+- It's also important to keep in mind that it's a good practice to evaluate the quality of the synthetic data using various metrics such as the **mean squared error**.
