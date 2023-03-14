@@ -16,6 +16,6 @@ I am currently working on my Ph.D. thesis entitled `Essays on Administrative Dat
 
 ### Work-in-progress
 
-- Peer Effects in Private Health Insurance Demand
-- Estimating Willingness-to-pay for Neighborhood Amenities in Victoria, Australia (with [Alicia N. Rambaldi](https://www.aliciarambaldi.net/) and `James Hansen`)
-- Forecasting House Sales in Turkey (with `Yi Zhang`)
+- Peer Effects in Private Health Insurance Demand *(with [Alicia N. Rambaldi](https://www.aliciarambaldi.net/) and [Chris Rose](https://sites.google.com/site/christiernrose/))*
+- Estimating Willingness-to-pay for Neighborhood Amenities in Victoria, Australia *(with [Alicia N. Rambaldi](https://www.aliciarambaldi.net/) and `James Hansen`)*
+- Forecasting House Sales in Turkey *(with `Yi Zhang`)*
