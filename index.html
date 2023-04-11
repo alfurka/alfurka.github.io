@@ -6,12 +6,21 @@ use-site-title: true
 
 <p>My name is Ali Furkan. I am a Ph.D. student in Economics at the University of Queensland. My research interests lie in theoretical/applied econometrics. Find more about my research <a href="https://alfurka.github.io/research/">here</a>.</p>
 
+<p><strong>Contact:</strong> a.kalay[at]uq.edu.au</p>
 
+<h3>NEWS!</h3>
+
+<ul>
+  {% for post in site.tags.NEWS %}
+  <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<h3>Other</h3>
+  
 <ul>
   <li><a href="https://lichess.org/@/alfurka/perf/rapid">Chess</a></li>
   <li><a href="https://cahilhoca.com/">Podcast</a> (Turkish)</li>
 </ul>
-
-<p><strong>Contact:</strong> a.kalay[at]uq.edu.au</p>
 
 <div style="clear:both"></div>
