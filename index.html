@@ -8,11 +8,11 @@ use-site-title: true
 
 <p><strong>Contact:</strong> a.kalay[at]uq.edu.au</p>
 
-<h3>NEWS!</h3>
+<h3>NEWS!!</h3>
 
 <ul>
   {% for post in site.tags.NEWS limit:5 %}
-  <li>{{ post.date | date: "%B %d, %Y" }} - <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+  <li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.subtitle }}</a></li>
   {% endfor %}
 </ul>
 
