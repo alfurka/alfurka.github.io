@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "A Fast Method to Create Synthetic Data with Python"
-subtitle: Using Python package synloc
-tags: [synthetic-data, computation, resampling, privacy, knn, python, synloc]
+subtitle: "Python package available in PyPI: synloc"
+tags: [NEWS,synthetic-data, computation, resampling, privacy, knn, python, synloc]
 image: /img/data.png
 ---
 
