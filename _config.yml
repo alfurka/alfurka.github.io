@@ -26,7 +26,10 @@ navbar-links:
   About: "https://alfurka.github.io/"
   Research: "https://alfurka.github.io/research/"
   Blog: "https://alfurka.github.io/blog/"
-  Travel: "https://www.google.com/maps/contrib/116879861009469852561/"
+  Links: 
+    - Chess: "https://lichess.org/@/alfurka/perf/rapid"
+    - Podcast: "https://cahilhoca.com/"
+    - Travel: "https://www.google.com/maps/contrib/116879861009469852561/"
 
 
 
