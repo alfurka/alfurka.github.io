@@ -2,7 +2,7 @@
 layout: post
 title: Estimating the Poisson Regression Model with Newton's Method - Python Example
 subtitle: Newton's Method from Scratch
-tags: [r example, Poisson regression, econometrics, asymptotics]
+tags: [blog, R,r example, Poisson regression, econometrics, asymptotics]
 image: /img/hoca.jpg
 ---
 

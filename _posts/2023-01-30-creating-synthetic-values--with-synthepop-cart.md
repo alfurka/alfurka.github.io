@@ -2,7 +2,7 @@
 layout: post
 title: "Critical CART Hyperparameters in Synthpop"
 subtitle: Creating Synthetic Data with R
-tags: [synthpop,cart,ctree,R,synthetic-data,hyperparameters,overfitting]
+tags: [blog, synthpop,cart,ctree,R,synthetic-data,hyperparameters,overfitting]
 image: /img/brain-neural.png
 ---
 

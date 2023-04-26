@@ -2,7 +2,7 @@
 layout: post
 title: "Kitap Notu - The Ways of Paradox and Other Essays"
 subtitle: Willard Van Orman Quine
-tags: [kitap, gödel, paradoks, quine, felsefe]
+tags: [blog, kitap, gödel, paradoks, quine, felsefe]
 image: /img/hello_world.jpeg
 bigimg: /img/learning.jpg
 ---

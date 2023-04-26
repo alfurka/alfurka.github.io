@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beamer Poster Template - Gemini for UQ
-tags: [latex, beamer, beamerposter, template,beamer templates,overleaf]
+tags: [blog, latex, beamer, beamerposter, template,beamer templates,overleaf]
 image: /img/hello_world.jpeg
 bigimg: /img/code.jpg
 ---

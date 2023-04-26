@@ -2,7 +2,7 @@
 layout: post
 title: Kamu ve Birey için Eğitim
 subtitle: Eğitime Dair Notlar - 1
-tags: [eğitim, felsefe, düşünce]
+tags: [blog, eğitim, felsefe, düşünce]
 image: /img/hello_world.jpeg
 bigimg: /img/learning.jpg
 ---

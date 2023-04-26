@@ -2,7 +2,7 @@
 layout: post
 title: Brisbane, Avustralya Notları
 subtitle: Sürdürülebilirlik, Planlama ve Çevre
-tags: [brisbane, eğitim, gezi, sürdürülebilirlik, çevre, planlama]
+tags: [blog, brisbane, eğitim, gezi, sürdürülebilirlik, çevre, planlama]
 image: /img/australia.jpg
 bigimg: /img/brisbane2.jpg
 ---

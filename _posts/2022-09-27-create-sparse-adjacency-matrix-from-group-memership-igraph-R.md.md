@@ -2,7 +2,7 @@
 layout: post
 title: "Creating Sparse Adjacency Matrix from Group Membership with igraph - R Programming"
 subtitle: "Block-diagonal matrix with data.table package"
-tags: [R, Matrix, sparseMatrix, igraph, block-diagonal, network]
+tags: [blog, R, Matrix, sparseMatrix, igraph, block-diagonal, network]
 image: /img/brain-neural.png
 ---
 

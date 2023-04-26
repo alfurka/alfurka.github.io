@@ -11,7 +11,15 @@ use-site-title: true
 <h3>NEWS!!</h3>
 
 <ul>
-  {% for post in site.tags.NEWS limit:5 %}
+  {% for post in site.tags.NEWS limit:3 %}
+  <li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.subtitle }}</a></li>
+  {% endfor %}
+</ul>
+
+<h3>BLOG</h3>
+
+<ul>
+  {% for post in site.tags.blog limit:3 %}
   <li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.subtitle }}</a></li>
   {% endfor %}
 </ul>

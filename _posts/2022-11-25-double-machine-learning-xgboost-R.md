@@ -2,7 +2,7 @@
 layout: post
 title: "An Implementation of Double Machine Learning with XGboost in R"
 subtitle: A Benchmark Estimate
-tags: [semiparametric, machine-learning, XGboost, R]
+tags: [blog, semiparametric, machine-learning, XGboost, R]
 image: /img/avatar-icon.png
 ---
 

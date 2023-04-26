@@ -2,7 +2,7 @@
 layout: post
 title: "Reducing Matrix Computation Time in R"
 subtitle: Using sparseMatrix from Matrix package 
-tags: [R, Matrix, sparseMatrix, Computation, package]
+tags: [blog, R, Matrix, sparseMatrix, Computation, package]
 image: /img/data.png
 ---
 

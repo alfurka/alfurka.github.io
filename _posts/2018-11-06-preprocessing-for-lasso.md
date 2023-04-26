@@ -2,7 +2,7 @@
 layout: post
 title: Preprocessing for LASSO
 subtitle: Polynomial Features
-tags: [Lasso, machine learning, preprocessing, regularization]
+tags: [blog, Lasso, machine learning, preprocessing, regularization]
 image: /img/hoca.jpg
 bigimg: /img/blackboard.png
 ---

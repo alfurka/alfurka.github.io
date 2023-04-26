@@ -2,7 +2,7 @@
 layout: post
 title: Connecting SSH Server via Phone
 subtitle: JuiceSSH for Android
-tags: [android, ssh, JuiceSSH,server]
+tags: [blog, android, ssh, JuiceSSH,server]
 image: /img/data.png
 ---
 I am running, checking, and revising simulations all the time. I often only connect, see results, revise, and resubmit the simulation. Takes 3 mins on average. However, I am not in front of my PC all the time. 

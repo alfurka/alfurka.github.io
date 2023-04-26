@@ -2,7 +2,7 @@
 layout: post
 title: Tuning ML Hyperparameters - LASSO and Ridge Examples
 subtitle: sklearn.model_selection.GridSearchCV
-tags: [machine learning, preprocessing, model selection, lasso, ridge, regularization, hyperparameters]
+tags: [blog, machine learning, preprocessing, model selection, lasso, ridge, regularization, hyperparameters]
 image: /img/avatar-icon.png
 bigimg: /img/learning.jpg
 ---

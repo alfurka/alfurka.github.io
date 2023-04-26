@@ -2,7 +2,7 @@
 layout: post
 title: Generating Categorical/Dummy Variable Patterns with Pandas 
 subtitle: A Script to generate categorical variable patterns in Python
-tags: [pandas, python, script]
+tags: [blog, pandas, python, script]
 image: /img/bird.png
 bigimg: /img/code.jpg
 ---

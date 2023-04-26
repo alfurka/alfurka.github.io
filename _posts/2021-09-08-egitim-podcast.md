@@ -2,7 +2,7 @@
 layout: post
 title: Eğitim Üzerine Bir Podcast - Cahil Hoca
 subtitle: Eğitim, edebiyat ve ekonomi
-tags: [eğitim, sokrates, podcast, cahil hoca, ekonomi, freelance]
+tags: [eblog, ğitim, sokrates, podcast, cahil hoca, ekonomi, freelance]
 image: /img/hoca.jpg
 bigimg: /img/table.jpg
 ---

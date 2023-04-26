@@ -2,7 +2,7 @@
 layout: post
 title: "Solution to Memory Leak in R with callr package"
 subtitle: An example calling other packages in callr
-tags: [memory-leak, memory, R, callr, dplyr]
+tags: [blog, memory-leak, memory, R, callr, dplyr]
 image: /img/hello_world.jpeg
 ---
 

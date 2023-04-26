@@ -2,7 +2,7 @@
 layout: post
 title: Generating data from a Kernel Density Estimation (KDE) - Example in R
 subtitle: KDE using data and sampling
-tags: [KDE, Kernel Density Estimation, density functions, distribution,sampling]
+tags: [blog, KDE, Kernel Density Estimation, density functions, distribution,sampling]
 image: /img/data.png
 bigimg: /img/blackboard.png
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Custom Theorem, Assumption, and Lemma Numbering in Latex
 subtitle: Examples of Customized Theorem Names
-tags: [latex, newtheorem, theorem, assumption,lemma,numbering]
+tags: [blog, latex, newtheorem, theorem, assumption,lemma,numbering]
 image: /img/hello_world.jpeg
 bigimg: /img/code.jpg
 ---

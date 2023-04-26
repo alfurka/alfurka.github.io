@@ -2,7 +2,7 @@
 layout: post
 title: Bilginin Kaynağı
 subtitle: Eğitime Dair Notlar - 3
-tags: [bilgi, eğitim, felsefe, düşünce]
+tags: [blog, bilgi, eğitim, felsefe, düşünce]
 image: /img/jrr.jpeg
 bigimg: /img/path.jpg
 ---
