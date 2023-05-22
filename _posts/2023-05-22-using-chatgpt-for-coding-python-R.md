@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Modifying Your Codes with ChatGPT"
-subtitle: "An example use case of a ChatGPT"
+title: "Learning and Modifying Codes with ChatGPT"
+subtitle: "An example use of ChatGPT for research"
 tags: [blog, GPT, ChatGPT, python, coding]
 image: /img/data.png
 ---
