@@ -3,7 +3,7 @@ layout: page
 title: Research and Publications
 ---
 
-I am currently working on my Ph.D. thesis entitled `Essays on Administrative Data Methodologies.` Administrative data are increasingly becoming available for research purposes while possessing unique statistical challenges. My thesis aims to address some of these statistical challenges and discover the potential uses of administrative data in economic research.
+My Ph.D. thesis, `Essays on Administrative Data Methodologies,` explores the potential applications of administrative data in economics while addressing associated statistical challenges. The thesis consists of four chapters: the first two focus on theoretical and methodological contributions, while the last two present applied works that leverage linked administrative data. In the theoretical chapters, I introduce innovative methods such as Double Score Matching (DSM) for mass-imputation and the Local Resampler (LR) algorithm for generating synthetic data. These methodologies enhance efficiency, robustness, and privacy preservation. In the applied chapters, I utilize linked administrative data to estimate household preferences for urban parks and examine the impact of colleagues on private health insurance demand. These empirical studies demonstrate the unique research opportunities enabled by linked administrative data.
 
 ### Published Work
 
