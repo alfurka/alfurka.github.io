@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "More Efficient Codes with ChatGPT"
-subtitle: "ChatGPT for R coding"
+title: "Faster R Codes with ChatGPT"
+subtitle: "ChatGPT examples"
 tags: [blog, GPT, ChatGPT, R, coding]
 image: /img/data.png
 ---
 
-I shared an example way of using ChatGPT earlier this week. Here is another one to increase the efficiency of a simple R code. 
+I shared [an example](https://alfurka.github.io/2023-05-22-using-chatgpt-for-coding-python-R/) way of using ChatGPT earlier this week. Here is another one to increase the efficiency of a simple R code. In terms of speed gains, R often exhibits significant variation compared to Python. Sometimes it is extremely slow... I often try to find the most efficient way. So,
 
 1. I asked ChatGPT to propose me an alternative of my existing code that will impute the missing values with median within a factor (category). 
 2. Then, I asked it to give me an experimental script that will compare the speed of my code and the alternative. 
