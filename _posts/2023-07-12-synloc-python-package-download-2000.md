@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "`synloc` Surpasses 2k Downloads"
+title: "synloc (Python Package) Surpasses 2k Downloads"
 subtitle: "`synloc` downloads have crossed the 2000 mark"
 tags: [NEWS, python, synloc, synthetic, package, code]
 image: /img/data.png
