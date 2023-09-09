@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Great Experience with my new Mechanical Keyboard"
-subtitle: "Significant Improvements in my Typing Speeds"
+subtitle: "Significant Improvement in my Typing Speed"
 tags: [keyboard, typing, mechanical-keyboard, blog]
 image: /img/hoca.jpg
 ---
