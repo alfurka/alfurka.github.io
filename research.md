@@ -3,7 +3,11 @@ layout: page
 title: Research and Publications
 ---
 
-My Ph.D. thesis, titled `Essays on Administrative Data Methodologies,` delves into the utilization of administrative data in economics, addressing related statistical challenges. It introduces innovative techniques such as Double Score Matching for mass-imputation and the Local Resampler algorithm for synthetic data generation. In the subsequent chapters, I utilize linked administrative data to estimate household preferences for urban parks and examine the impact of colleagues on private health insurance demand. These empirical studies demonstrate the unique research opportunities enabled by linked administrative data. Beyond my thesis, my research interests revolve around theoretical and applied econometrics, with a special focus on health economics and housing market dynamics.
+My Ph.D. thesis, titled `Essays on Administrative Data Methodologies,` delves into the utilization of administrative data in economics, addressing related statistical challenges. I introduce innovative techniques such as Double Score Matching for mass-imputation and the Local Resampler algorithm for synthetic data generation.
+
+In subsequent chapters, I employ linked administrative data to estimate household preferences for urban parks and to examine the impact of colleagues on private health insurance demand. These empirical studies underscore the unique research opportunities presented by linked administrative data.
+
+Beyond my thesis, my research interests span both theoretical and applied econometrics. I have a particular focus on leveraging novel, large datasets for research and on advancing state-of-the-art statistical models.
 
 ### Published Work
 
