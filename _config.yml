@@ -23,9 +23,10 @@ description: PhD(c) in Economics
 
 # List of links in the navigation bar
 navbar-links:
-  About: "https://alfurka.github.io/"
+  Home: "https://alfurka.github.io/"
   Research: "https://alfurka.github.io/research/"
   Blog: "https://alfurka.github.io/blog/"
+  CV: "https://alfurka.github.io/myfiles/CV.pdf"
   Links: 
     - Chess: "https://lichess.org/@/alfurka/perf/rapid"
     - Podcast: "https://cahilhoca.com/"
