@@ -20,6 +20,6 @@ Beyond my thesis, my research interests span both theoretical and applied econom
 
 ### Work-in-progress
 
-- Peer Effects in Private Health Insurance Demand *(with [Alicia N. Rambaldi](https://www.aliciarambaldi.net/) and [Chris Rose](https://sites.google.com/site/christiernrose/))*
-- Estimating Willingness-to-pay for Neighborhood Amenities in Victoria, Australia *(with [Alicia N. Rambaldi](https://www.aliciarambaldi.net/) and `James Hansen`)*
+- Social Interactions in the Demand for Private Health Insurance: Evidence from Linked Employer-Employee Data *(with [Alicia N. Rambaldi](https://www.aliciarambaldi.net/) and [Chris Rose](https://sites.google.com/site/christiernrose/))*
+- Linked Administrative Data and Estimating the Marginal Willingness to Pay for Amenities *(with [Alicia N. Rambaldi](https://www.aliciarambaldi.net/) and `James Hansen`)*
 - Forecasting House Sales in Turkey *(with `Yi Zhang`)*
