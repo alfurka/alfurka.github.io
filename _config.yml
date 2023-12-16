@@ -236,3 +236,4 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-youtube
+  - jekyll-twitter-plugin
