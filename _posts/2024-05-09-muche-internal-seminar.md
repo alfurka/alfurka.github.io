@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Internal Seminar: Macquarie University Centre for Health Economy"
+subtitle: "Presented at MUCHE Internal Seminar"
+tags: [NEWS, marginal-willingness-to-pay, housing, welfare-analysis, seminar]
+image: /img/hello_world.jpeg
+---
+
+I had the pleasure of presenting our research, 'Linked Administrative Data and Estimating the Marginal Willingness to Pay for Amenities' (collaborative work with Alicia N. Rambaldi and James Hansen) at the MUCHE internal seminars. This paper is part of my [PhD Thesis](https://espace.library.uq.edu.au/view/UQ:b48c90d), which we are currently preparing for publishing. Here is the abstract of this chapter:
+
+> This study introduces a comprehensive welfare analysis framework leveraging linked administrative data from Australia. We apply a Rosen (1974)-style two-stage estimation procedure to estimate households’ marginal willingness to pay (MWTP) for a specific urban amenity. In the first stage, we estimate a hedonic price function for this amenity using property transaction data. Subsequently, in the second stage, we recover the MWTP of households in Greater Melbourne during the time of the 2016 national census, using the estimated hedonic price function. This analysis is made possible by a customized linked dataset for the state of Victoria, Australia, covering the period 2011-2016. The census of property transactions in Victoria is linked to the Australian Bureau of Statistics’ Multi Agency Data Integration Project (MADIP) (ABS, 2020). Our empirical application focuses on the number of urban parks in the dwelling’s neighborhood. The first stage involves estimating a semiparametric hedonic price function using the census of transacted properties in Victoria from 2014 to 2016. We account for unobservables by incorporating a large number of geographical fixed effects and a socio-economic index of neighborhood quality. The second stage entails estimating households’ MWTP using a computationally efficient strategy that does not require instrumental variables. Our findings reveal substantial variations in MWTP between households purchasing detached houses and apartments, as well as across different household types. We demonstrate how estimated household preferences, combined with population-based administrative records, enable a spatial welfare analysis framework.
