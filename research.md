@@ -7,7 +7,7 @@ My research interests span health economics and theoretical/applied econometrics
 
 ### Published Work
 
-- [Spatial analysis of Twitter sentiment and district-level housing prices](https://www.emerald.com/insight/content/doi/10.1108/JERER-08-2018-0036/full/html) (2019). *Journal of European Real Estate Research* (with `Christopher Hannum` and `Kerem Yavuz Arslanli`)
+- [Spatial analysis of Twitter sentiment and district-level housing prices](https://www.emerald.com/insight/content/doi/10.1108/JERER-08-2018-0036/full/html) (2019). *Journal of European Real Estate Research* (with Christopher Hannum and Kerem Yavuz Arslanli)
 
 ### Working Paper
 
@@ -22,4 +22,4 @@ My research interests span health economics and theoretical/applied econometrics
 ### Work-in-progress
 
 - Network Spillovers versus Common Factors: A Joint-Estimation Approach *([James Morley](https://sites.google.com/site/jamescmorley/), [Valentyn Panchenko](https://www.unsw.edu.au/staff/valentyn-panchenko), [Jorge M. Pinto](https://sites.google.com/site/cokeconphd/research?authuser=0), [Chris Rose](https://sites.google.com/site/christiernrose/))*
-- Forecasting House Sales in Turkey *(`Yi Zhang`)*
+- Forecasting House Sales in Turkey *([Yi Zhang](https://sites.google.com/view/yizhang9312))*
