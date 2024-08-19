@@ -18,5 +18,5 @@ I do think that AI can actually expand the boundaries of human knowledge on its 
 
 To my *limited* understanding, the bottlenecks will be CPUs and energy consumption. These types of feedback loops will be costly both in terms of computation and energy. I hope that in the future, it will NOT be cheaper to run an AI than to pay my salary.
 
-**Update**: After publishing this blog post, I discovered a system that resembles a recursive model: Automated Design of Agentic Systems. There's a [GitHub](https://github.com/ShengranHu/ADAS) repository for implementation and a [paper](https://arxiv.org/abs/2408.08435) that explains the recursive model using an `empirical framework` for evaluation.
+**Update**: After publishing this blog post, I discovered a system that resembles a recursive model I described: Automated Design of Agentic Systems. There's a [GitHub](https://github.com/ShengranHu/ADAS) repository for implementation and a [paper](https://arxiv.org/abs/2408.08435) that explains the recursive model using an `empirical framework` for evaluation.
 
