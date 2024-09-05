@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Monash CHE Seminar Presentation: Social Interactions and Private Health Insurance Demand"
+title: "Seminar Title: Social Interactions and Private Health Insurance Demand"
 subtitle: "Presented at Monash University Centre for Health Economics"
 tags: [NEWS, peer-effects, presentation, health]
 image: /img/hello_world.jpeg
