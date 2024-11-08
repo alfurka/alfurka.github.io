@@ -16,6 +16,10 @@ My research interests span health economics and theoretical/applied econometrics
 - [Generating Synthetic Data with The Nearest Neighbors Algorithm](https://arxiv.org/abs/2210.00884) (2022). [[Software](https://github.com/alfurka/synloc)]
 - [Double Robust Mass-Imputation with Matching Estimators](https://arxiv.org/abs/2110.09275) (2021). [[Poster](https://alfurka.github.io/myfiles/Poster_Presentation.pdf)]
 
+### Grants
+
+- National Suicide Prevention Office Project "Predicting Self-Harm and Suicide Risk within Australian Local Government Areas," 2024-2025, $296,000, Chief Investigators [Henry Cutler](https://researchers.mq.edu.au/en/persons/henry-cutler), [Anam Bilgrami](https://sites.google.com/mq.edu.au/anambilgrami/home), Ali Furkan Kalay, and Alan Woodward.
+
 ### Work-in-progress
 
 - Network Spillovers versus Common Factors: A Joint-Estimation Approach *([James Morley](https://sites.google.com/site/jamescmorley/), [Valentyn Panchenko](https://www.unsw.edu.au/staff/valentyn-panchenko), [Jorge M. Pinto](https://sites.google.com/site/cokeconphd/research?authuser=0), [Chris Rose](https://sites.google.com/site/christiernrose/))*
