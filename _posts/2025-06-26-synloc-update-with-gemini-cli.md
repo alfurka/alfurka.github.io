@@ -46,13 +46,6 @@ So I moved the problem to **AI Studio**, provided detailed instructions, and, w
 
 ### Final thoughts
 
-I couldn’t have updated the package without Gemini CLI. Doing it all manually would have taken a few days. Even the build‑test‑publish pipeline, which I’m still learning, was smoother with Gemini’s guidance.
+I couldn’t have updated the package without Gemini CLI. Doing it all manually would have taken a few days. For future use, I’m thinking of trying Claude Code; its pay‑as‑you‑go model suits my sporadic coding sessions. Of course, I won't switch until gemini CLI free-tier remains. 
 
-Next, I’m thinking of trying Claude Code; its pay‑as‑you‑go model suits my sporadic coding sessions.
-
-This post isn’t sponsored—just sharing my experience. Have a nice day!
-
-
-Future work will examine GPU acceleration and broader support for non-parametric distributions. For now, these enhancements position **Synloc** as a more efficient and maintainable solution for synthetic-data generation.
-
-[1]: https://github.com/google-gemini/gemini-cli?utm_source=chatgpt.com "GitHub - google-gemini/gemini-cli: An open-source AI agent that brings ..."
+Of course, this post isn’t sponsored :). Have a nice day!
