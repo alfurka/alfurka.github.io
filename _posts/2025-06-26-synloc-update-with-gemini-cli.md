@@ -46,6 +46,6 @@ So I moved the problem to **AI Studio**, provided detailed instructions, and, w
 
 ### Final thoughts
 
-I couldn’t have updated the package without Gemini CLI. Doing it all manually would have taken a few days. For future use, I’m thinking of trying Claude Code; its pay‑as‑you‑go model suits my sporadic coding sessions. Of course, I won't switch until gemini CLI free-tier remains. 
+I couldn’t have updated the package without Gemini CLI. Doing it all manually would have taken a few days. For future use, I’m thinking of trying Claude Code; its pay‑as‑you‑go model suits my hobby coding sessions. Of course, I won't switch until gemini CLI free-tier remains. 
 
-Of course, this post isn’t sponsored :). Have a nice day!
+Have a nice day!
