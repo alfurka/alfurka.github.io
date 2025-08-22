@@ -3,7 +3,7 @@ layout: post
 title: "A tiny client-side TikZ previewer with TikZJax"
 subtitle: "Quick Tikz Preview Tool"
 date: 2025-08-22
-tags: [latex, tikz, tikzjax, github-pages, tooling, ai, chatgpt, qwen, gemini, BLOG]
+tags: [latex, tikz, tikzjax, github-pages, tooling, ai, chatgpt, qwen, gemini, blog]
 ---
 
 I like using TikZ in my papers. My workflow is: draft the diagram with ChatGPT, fix bugs by hand, and paste the final LaTeX. The slow part is compiling just to see if a small change worked. I wanted a fast visual check.
