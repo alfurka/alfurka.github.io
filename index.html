@@ -11,7 +11,7 @@ use-site-title: true
 <h3 style="color:#c7254e">News!!</h3>
 
 <ul>
-  {% for post in site.tags.NEWS limit:3 %}
+  {% for post in site.tags.NEWS limit:4 %}
   <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.subtitle }}</a> - {{ post.date | date: "%B %d, %Y" }}</li>
   {% endfor %}
 </ul>
@@ -19,7 +19,7 @@ use-site-title: true
 <h3 style="color:#c7254e">Blog</h3>
 
 <ul>
-  {% for post in site.tags.blog limit:3 %}
+  {% for post in site.tags.blog limit:4 %}
   <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}</li>
   {% endfor %}
 </ul>
