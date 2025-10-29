@@ -11,7 +11,8 @@ My research interests span health economics and theoretical/applied econometrics
 
 ### Working Paper
 
-- Social Interactions in the Demand for Private Health Insurance: Evidence from Linked Employer-Employee Data (2024). ([Alicia N. Rambaldi](https://www.aliciarambaldi.net/) and [Chris Rose](https://sites.google.com/site/christiernrose/)) 
+- [Bridging Language Barriers: The Impact of Large Language Models on Academic Writing](https://www.iza.org/publications/dp/18215/bridging-language-barriers-the-impact-of-large-language-models-on-academic-writing) (with `Burak Dalaman` and [Nathan Kettlewell](https://sites.google.com/site/nrkettlewell/))
+- Social Interactions in the Demand for Private Health Insurance: Evidence from Linked Employer-Employee Data. ([Alicia N. Rambaldi](https://www.aliciarambaldi.net/) and [Chris Rose](https://sites.google.com/site/christiernrose/)) 
 - [Linked Administrative Data and Estimating the Marginal Willingness to Pay for Amenities](https://iariw.org/wp-content/uploads/2024/08/4B-2Rambaldi.pdf) (2024). ([Alicia N. Rambaldi](https://www.aliciarambaldi.net/) and [James Hansen](https://sites.google.com/site/jamesfrhansen/home)
 - [Generating Synthetic Data with The Nearest Neighbors Algorithm](https://arxiv.org/abs/2210.00884) (2022). [[Software](https://github.com/alfurka/synloc), *R&R @ Australian & New Zealand Journal of Statistics*] 
 - [Double Robust Mass-Imputation with Matching Estimators](https://arxiv.org/abs/2110.09275) (2021). [[Poster](https://alfurka.github.io/myfiles/Poster_Presentation.pdf)]
