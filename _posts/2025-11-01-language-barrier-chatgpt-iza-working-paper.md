@@ -21,7 +21,7 @@ I’m excited to share a new working paper co-authored with **Burak Dalaman** an
 *Example: TTR time series shows convergence in lexical diversity post-ChatGPT.*
 
 3. **Computer science leads.** Changes are **largest in CS** categories. Our interpretation is: CS authors tend to adopt new AI tooling faster. If true, broader fields may show delayed effects as adoption diffuses.  
-4. **Adoption isn’t automatic.** Even for a relatively easy use case—AI-assisted phrasing and editing—uptake among academics looks **gradual**, not instantaneous.
+4. **Adoption is slow.** Even for a relatively easy use case (AI-assisted phrasing and editing) uptake among academics looks **gradual**, not instantaneous.
 
 We will update the data and the reuslts soon. You can find the paper [here](https://www.iza.org/publications/dp/18215/bridging-language-barriers-the-impact-of-large-language-models-on-academic-writing). Let us know if you have any comments or questions: `alifurkan.kalay@mq.edu.au`
 
