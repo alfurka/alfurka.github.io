@@ -1,0 +1,168 @@
+
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[11pt, a4paper]{article}
+\usepackage{fontspec} 
+
+% DOCUMENT LAYOUT
+\usepackage{geometry}  
+\geometry{a4paper, textwidth=6.5in, textheight=10.2in, marginparsep=7pt, marginparwidth=.63in}
+\setlength\parindent{0in}
+
+% FONTS
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{xunicode}
+\usepackage{xltxtra}
+
+\defaultfontfeatures{Mapping=tex-text}
+%\setromanfont [Ligatures={Common}, Numbers={OldStyle}, Variant=01]{Linux Libertine O}
+%\setmonofont[Scale=0.8]{Monaco}
+
+\setmainfont[
+  Ligatures={Common}, Numbers={OldStyle}, Variant=01,
+  BoldFont=LinLibertine_RB.otf,
+  ItalicFont=LinLibertine_RI.otf,
+  BoldItalicFont=LinLibertine_RBI.otf
+]{LinLibertine_R.otf}
+\setmonofont[Scale=0.8]{DejaVuSansMono.ttf}
+
+% ---- CUSTOM COMMANDS
+\chardef\&="E050
+\newcommand{\html}[1]{\href{#1}{\scriptsize\textsc{[html]}}}
+\newcommand{\pdf}[1]{\href{#1}{\scriptsize\textsc{[pdf]}}}
+\newcommand{\doi}[1]{\href{#1}{\scriptsize\textsc{[doi]}}}
+% ---- MARGIN YEARS
+\usepackage{marginnote}
+\newcommand{\amper}{\chardef\amper="E0BD }
+\newcommand{\years}[1]{\marginnote{\scriptsize #1}}
+\newcommand{\sectionn}[1]{\vspace{-0.8cm} \textbf{\section*{#1}}}
+\renewcommand*{\raggedleftmarginnote}{}
+\setlength{\marginparsep}{7pt}
+\reversemarginpar
+
+% HEADINGS
+\usepackage{sectsty} 
+\usepackage[normalem]{ulem} 
+\sectionfont{\mdseries\upshape\Large}
+\subsectionfont{\mdseries\scshape\normalsize} 
+\subsubsectionfont{\mdseries\upshape\large} 
+
+% PDF SETUP
+% ---- FILL IN HERE THE DOC TITLE AND AUTHOR
+\usepackage[%dvipdfm, 
+bookmarks, colorlinks, breaklinks, 
+% ---- FILL IN HERE THE TITLE AND AUTHOR
+	pdftitle={Ali Furkan Kalay - CV},
+	pdfauthor={Ali Furkan Kalay},
+	pdfproducer={http://nitens.org/taraborelli/cvtex}
+]{hyperref}  
+\hypersetup{linkcolor=blue,citecolor=blue,filecolor=black,urlcolor=MidnightBlue} 
+\usepackage{enumitem}
+\setlist[itemize]{noitemsep, topsep=0pt}
+% DOCUMENT
+\begin{document}
+
+\begin{center}
+{\LARGE \textbf{Curriculum Vitae for Ali Furkan Kalay}}\\
+\textit{\today} \\
+\texttt{+61 434 232 612} | \href{mailto:alifurkan.kalay@mq.edu.au}{alifurkan.kalay@mq.edu.au} | \href{https://alfurka.github.io/}{alfurka.github.io}
+\end{center}
+
+I am a Research Fellow at the Macquarie University Centre for Health Economy. I have a keen interest in leveraging novel large datasets, from social media to maps and administrative records, to extract meaningful insights, and in utilizing and advancing state-of-the-art statistical models.\\
+
+\textsc{Primary}: Health Economics, Applied Econometrics\\
+\textsc{Secondary}: Statistics\\
+
+\sectionn{Education}
+\noindent
+\years{2020-2024}\textsc{Ph.D. in Economics}, The University of Queensland\\
+\years{2019}\textsc{Master of Advanced Economics}, The University of Queensland\\
+\years{2016-2018}\textsc{Master} in Economics, Istanbul Technical University \\
+\years{2012-2016}\textsc{Bachelor of Science} in Industrial Engineering, Istanbul Technical University\\
+
+\sectionn{Employment \& Experience}
+
+\years{2024-present} \emph{Research Fellow}, Macquarie University Centre for Health Economy
+
+\years{2019 - 2024}\emph{Research Assistant \& Tutor}, The University of Queensland \\
+\years{2017-2018}\emph{Research Assistant}, Istanbul Technical University\\
+\years{2015} \emph{Internship}, Product Development Department, Kuveyt Turk Participation Bank \\
+
+\sectionn{Publications}
+
+\years{2019} \textsc{``Spatial analysis of Twitter sentiment and district-level housing prices''}, \textit{Journal of European Real Estate Research}, Vol. 12 No. 2, pp. 173-189, (with C. Hannum and K.Y. Arslanli) \\
+
+\sectionn{Grants}
+
+\years{2025} \textsc{AI}: \textsc{``Spillovers Between Firm Performance and Employees’ Health''}, \textit{Business Research Grant Scheme, University of Technology Sydney}, \textbf{AUD 12,000} (with \href{https://sites.google.com/site/nrkettlewell/}{Nathan Kettlewell}, Alan Woodward, and \href{https://sites.google.com/view/alivergili/}{Ali Vergili}) \\
+\years{2025} \textsc{CI}: \textsc{``Macquarie University ECR Enabling Scheme''}, \textbf{AUD 3,000}. \\
+\years{2024-2025} \textsc{CI}: \textsc{``Predicting self-harm and suicide risk within Australian local government areas''}, \textit{The National Suicide Prevention Office}, \textbf{AUD 296,196} (with \href{https://researchers.mq.edu.au/en/persons/henry-cutler}{Henry Cutler}, Alan Woodward, and \href{https://sites.google.com/mq.edu.au/anambilgrami/home}{Anam Bilgrami}) \\
+
+
+
+\sectionn{Working Papers}
+
+\years{2025} \textsc{``Generating Synthetic Data with Locally Estimated Distributions for Disclosure Control''} (\href{https://arxiv.org/abs/2210.00884}{arXiv} - \href{https://github.com/alfurka/synloc}{Software}, Revise and Resubmit, Australian \& New Zealand Journal of Statistics)\\
+\years{2025} \textsc{``Bridging Language Barriers: The Impact of Large Language Models on Academic Writing''} (with Burak Dalaman and \href{https://sites.google.com/site/nrkettlewell/}{Nathan Kettlewell}) (Reject and Resubmit, Journal of Information Technology)\\
+\years{2024} \textsc{``Social Interactions in the Demand for Private Health Insurance: Evidence from Linked Employer-Employee Data''} (with \href{https://www.aliciarambaldi.net/}{Alicia Rambaldi} and \href{https://sites.google.com/site/christiernrose/}{Chris Rose})\\
+\years{2024} \textsc{``Linked Administrative Data and Estimating the Marginal Willingness to Pay for Amenities''} (with James Hansen and \href{https://www.aliciarambaldi.net/}{Alicia N. Rambaldi})\\
+\years{2023} \textsc{``Forecasting Regional House Sales in Turkey Using Google Trends''} (with \href{https://sites.google.com/view/yizhang9312/home}{Yi Zhang})(\href{https://www.dropbox.com/scl/fi/067sdiku7vga37zgxvxuo/Forecasting_House_Sales_Using_Google_Trends.pdf?dl=0&rlkey=tc1mf7utnwo5qclaup5pc3oc4}{Draft})\\
+\years{2021} \textsc{``Double Robust Mass-Imputation with Matching Estimators''} (\href{https://arxiv.org/abs/2110.09275}{arXiv})\\
+
+\newpage
+
+\sectionn{Work-in-progress}
+
+\years{} \textsc{``Spillovers Between Firm Performance and Employees''} (with \href{https://sites.google.com/site/nrkettlewell/}{Nathan Kettlewell}, Alan Woodward, and \href{https://sites.google.com/view/alivergili/}{Ali Vergili})\\
+\years{} \textsc{``Network Spillovers versus Common Factors: A Joint-Estimation Approach''} (with \href{https://sites.google.com/site/jamescmorley/}{James Morley}, \href{https://scholar.google.com.au/citations?user=2_yKK9MAAAAJ&hl=en}{Valentyn Panchenko}, \href{https://sites.google.com/site/cokeconphd/}{Jorge M. Pinto}, \href{https://sites.google.com/site/christiernrose/}{Chris Rose})\\
+
+\sectionn{Talks \& Lectures}
+
+\years{2025} \textsc{Conference}: \textsc{Conference}: 46th Annual AHES Conference (Canberra, Australia) \\
+\textsc{Conference}: International Health Economics Association (IHEA) Conference 2025 (Indonesia)\\
+\textsc{Conference}: AI, Law and Society Conference (Macquarie University)\\
+\years{2024} \textsc{Conference}: 45th Annual AHES Conference \\
+\textsc{Conference}: Internal Seminar (Monash University Centre for Health Economics) \\
+\textsc{Seminar}: Internal Seminars (Macquarie University)\\
+\textsc{Presentation}: on ``Double Robust Difference-in-Difference Estimators'' (Macquarie University Centre for Health Economy) \\
+\textsc{Conference}: Australasian Workshop on Econometrics and Health Economics 2024\\
+\textsc{Seminar}: Internal Seminar (Macquarie University) \\
+\textsc{Conference}: Workshop on Economics of Health and Wellbeing (Macquarie University)\\
+\years{2023} \textsc{Conference}: $37^{th}$ PhD Conference in Economics \& Business (University of Melbourne) \\
+\textsc{Conference}: Econometric Society Australasian Meeting (University of New South Wales) \\
+\textsc{Conference}: Australian Conference of Economists (Brisbane, Australia \\
+\textsc{Conference}: Western Economic Association International (University of Melbourne)\\
+\textsc{Guest Lecturer}: \textit{Statistical Theory for Economist}s (The University of Queensland)\\
+\textsc{Seminar}: Brown Bag (The University of Queensland) \\
+\years{2022} \textsc{Conference}: Center for Efficiency and Productivity Analysis (The University of Queensland)\\
+\textsc{Presentation}: \textit{on Creating Synthetic Data} (Australian Bureau of Statistics)\\
+\years{2021} \textsc{Presentation}: \textit{``Double Robust Mass-Imputation with Matching Estimators''} (Australian Bureau of Statistics)\\
+\textsc{Conference}: $34^{th}$ PhD Conference in Economics \& Business (Virtual)\\
+\years{2020} \textsc{Seminar}: PhD Colloquium (The University of Queensland)\\
+
+\sectionn{Honors \& awards}
+\noindent
+\years{2020-2023}\textsc{UQ Graduate School} Scholarship, The University of Queensland (Stipend and tuition)\\ 
+\years{2019}\textsc{Master of Advanced Economics} Scholarship, The University of Queensland (Stipend and tuition) \\
+\years{2012-2016}\textsc{EKOTEK}: The Foundation of Economic and Technical Solidarity Success Grant (Monthly stipend)\\
+\years{2012-2016}\textsc{KYK}: State Higher Education Grant for Success (Monthly stipend)\\
+\years{2012} National University Entrance Exam (\href{https://www.osym.gov.tr/}{OSYM}): ranked within 0.12\% \textit{(out of 2 million)}. \\ 
+\years{2011}\textsc{Bronze Medal} at Akdeniz University Math Olympics\\
+
+
+\sectionn{Languages and Computer Skills}
+\years{Languages}
+ \textbf{Turkish} (Native),
+ \textbf{English} (Fluent),
+ \textbf{Arabic} (Beginner)\\
+ 
+\years{Programming}\textbf{Python} (Advanced, \href{https://alfurka.github.io/synloc/}{\textit{synloc}}), \textbf{R} (Advanced), \textbf{Stata} (Advanced), \textbf{Julia} (Intermediate) \textbf{Matlab} (Intermediate), \textbf{SQL} (Intermediate), \textbf{PHP} (Intermediate)\\
+
+
+%\vspace{1cm}
+\vfill{}
+%\hrulefill
+
+
+\end{document}
