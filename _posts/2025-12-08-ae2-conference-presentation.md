@@ -3,7 +3,7 @@ layout: post
 title: "Presented at the Inaugural AE2 Conference"
 subtitle: "Australasian Econometric Conference 2025"
 date: 2025-12-08
-tags: [news, conference, llm, academic-writing, econometrics, macquarie-university]
+tags: [NEWS, conference, llm, academic-writing, econometrics, macquarie-university]
 ---
 
 I had the pleasure of presenting our paper **"Bridging Language Barriers: The Impact of Large Language Models on Academic Writing"** (co-authored with Burak Dalaman and [Nathan Kettlewell](https://sites.google.com/site/nrkettlewell/)) at the **Inaugural AE² Conference** — the Australasian Econometric Conference of the Association of Econometricians (ANZAE).
