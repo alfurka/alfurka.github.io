@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Working Paper: The Impact of LLMs on Academic Writing"
-subtitle: "Evidence from arXiv, 2018–2024"
+title: "The Impact of LLMs on Academic Writing"
+subtitle: "Working Paper: Bridging Language Barriers"
 date: 2025-11-03
 tags: [llm, academic-writing, arxiv, readability, lexical-diversity, science-of-science, computer-science, policy, equity, research, ai, chatgpt, blog, NEWS]
 ---
