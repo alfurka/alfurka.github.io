@@ -7,7 +7,7 @@ My research interests span health economics and theoretical/applied econometrics
 
 ### Published Work
 
-- [Generating Synthetic Data with Locally Estimated Distributions for Disclosure Control](https://doi.org/10.1111/anzs.70032) (2025). *Australian & New Zealand Journal of Statistics*, 1–24. [[Software](https://github.com/alfurka/synloc)]
+- [Generating Synthetic Data with Locally Estimated Distributions for Disclosure Control](https://doi.org/10.1111/anzs.70032) (2025). *Australian & New Zealand Journal of Statistics*, 1–24. [[Software](https://github.com/alfurka/synloc), [Blog Post](https://alfurka.github.io/2025-12-16-synthetic-data-paper-published/)]
 - [Spatial analysis of Twitter sentiment and district-level housing prices](https://www.emerald.com/insight/content/doi/10.1108/JERER-08-2018-0036/full/html) (2019). *Journal of European Real Estate Research* (with Christopher Hannum and Kerem Yavuz Arslanli)
 
 ### Working Paper
