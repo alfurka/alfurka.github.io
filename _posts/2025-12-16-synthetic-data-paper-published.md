@@ -20,11 +20,11 @@ This publication marks the **first chapter of my PhD thesis** to appear in a jou
 
 Over the years, I've written several posts documenting the journey of this research and the accompanying software:
 
-- [**A Fast Method to Create Synthetic Data with Python**](https://alfurka.github.io/2022-10-04-generate-synthetic-data-with-nearest-neighbor-algorithm/) (October 2022): The original announcement of `synloc`, my Python package for synthetic data generation. This post introduces the algorithm and demonstrates how to create synthetic values using multivariate normal distributions and Gaussian copulas.
+- [**A Fast Method to Create Synthetic Data with Python**](https://alfurka.github.io/2022-10-04-generate-synthetic-data-with-nearest-neighbor-algorithm/) (October 2022): The original announcement of `synloc`, my Python package for synthetic data generation. 
 
-- [**synloc Surpasses 2k Downloads**](https://alfurka.github.io/2023-07-12-synloc-python-package-download-2000/) (July 2023): A milestone update celebrating the package crossing 2,000 downloads on PyPI. The post highlights `synloc`'s key advantages, including its natural handling of outliers and ability to replicate nonlinear, multi-modal distributions.
+- [**synloc Surpasses 2k Downloads**](https://alfurka.github.io/2023-07-12-synloc-python-package-download-2000/) (July 2023): A milestone update celebrating the package crossing 2,000 downloads on PyPI. 
 
-- [**Presentation at AI, Law and Society Conference**](https://alfurka.github.io/2025-02-14-ai-conference-mq/) (February 2025): A summary of my presentation at Macquarie University, where I discussed the framework's ability to parameterize data utility and disclosure risk for data custodians.
+- [**Presentation at AI, Law and Society Conference**](https://alfurka.github.io/2025-02-14-ai-conference-mq/) (February 2025)
 
 - [**Upgrading Synloc with Gemini CLI**](https://alfurka.github.io/2025-06-26-synloc-update-with-gemini-cli/) (June 2025): The story of updating `synloc` to version 0.2, adding parallelization and reducing dependencies. This update was completed in just three hours with the help of AI coding tools.
 
