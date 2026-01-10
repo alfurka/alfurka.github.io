@@ -6,7 +6,7 @@ tags: [NEWS, publication, synthetic-data, privacy, disclosure-control, python, s
 image: /img/data.png
 ---
 
-I'm thrilled to announce that my paper **"Generating Synthetic Data with Locally Estimated Distributions for Disclosure Control"** has been officially published in the *Australian & New Zealand Journal of Statistics*!
+I am very happy to announce that my paper **"Generating Synthetic Data with Locally Estimated Distributions for Disclosure Control"** has been officially published in the *Australian & New Zealand Journal of Statistics*!
 
 **Kalay, A. F. (2025).** "Generating Synthetic Data With Locally Estimated Distributions for Disclosure Control." *Australian & New Zealand Journal of Statistics*, 1–24. [https://doi.org/10.1111/anzs.70032](https://doi.org/10.1111/anzs.70032)
 
@@ -34,4 +34,5 @@ Over the years, I've written several posts documenting the journey of this resea
 
 - **Paper**: [DOI](https://doi.org/10.1111/anzs.70032) | [arXiv preprint](https://arxiv.org/abs/2210.00884)
 - **Software**: [synloc on PyPI](https://pypi.org/project/synloc/) | [GitHub](https://github.com/alfurka/synloc)
+- **Replication**: [GitHub](https://github.com/alfurka/synloc/tree/main/replication) | [README](https://github.com/alfurka/synloc/blob/main/replication/README.md)
 
