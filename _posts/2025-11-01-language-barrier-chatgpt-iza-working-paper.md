@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Working Paper: The Impact of LLMs on Academic Writing"
-subtitle: "Evidence from arXiv, 2018–2024"
+title: "The Impact of LLMs on Academic Writing"
+subtitle: "Working Paper: Bridging Language Barriers"
 date: 2025-11-03
-tags: [llm, academic-writing, arxiv, readability, lexical-diversity, science-of-science, computer-science, policy, equity, research, ai, chatgpt, blog]
+tags: [llm, academic-writing, arxiv, readability, lexical-diversity, science-of-science, computer-science, policy, equity, research, ai, chatgpt, blog, NEWS]
 ---
 
 I’m excited to share a new working paper co-authored with **Burak Dalaman** and [Nathan Kettlewell](https://sites.google.com/site/nrkettlewell/). We study how large language models (LLMs) changes academic writing, with a simple idea that unlocks a clean comparison between **native** and **non-native** English speaking authors. While studying the impact of LLMs, we also happen to use LLMs to infer authors’ likely English language background from names. This lets us split abstracts into **native-authored** and **non-native-authored** groups and track differences over time.
