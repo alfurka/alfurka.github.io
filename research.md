@@ -24,10 +24,10 @@ My research interests span health economics and theoretical/applied econometrics
 - Summer Foundation and Macquarie University grant "Understanding the broader impacts of disability through the Australian linked-administrative data," CI, 2025-2029.
 - National Suicide Prevention Office Project "Predicting Self-Harm and Suicide Risk within Australian Local Government Areas," 2024-2025, $296,000, Chief Investigators [Henry Cutler](https://researchers.mq.edu.au/en/persons/henry-cutler), [Anam Bilgrami](https://sites.google.com/mq.edu.au/anambilgrami/home), Ali Furkan Kalay, and Alan Woodward.
 - Macquarie University ECR Enabling Scheme, 2025, $3,000.
-- University of Technology Sydney Business Research Grant "Spillovers Between Firm Performance and Employees' Health," 2025, $12,000, with [Nathan Kettlewell](https://sites.google.com/site/nrkettlewell/) and [Ali Vergili](https://sites.google.com/view/alivergili/).
+- University of Technology Sydney Business Research Grant "Spillovers Between Firm Performance and Employees' Health," 2025, $12,000, with [Nathan Kettlewell](https://sites.google.com/site/nrkettlewell/) and [Ali Vergili](https://alivergili.github.io/).
 
 ### Work-in-progress
 
-- Spillovers Between Firm Performance and Employees *([Nathan Kettlewell](https://sites.google.com/site/nrkettlewell/) and [Ali Vergili](https://sites.google.com/view/alivergili/))*
+- Spillovers Between Firm Performance and Employees *([Nathan Kettlewell](https://sites.google.com/site/nrkettlewell/) and [Ali Vergili](https://alivergili.github.io/))*
 - Network Spillovers versus Common Factors: A Joint-Estimation Approach *([James Morley](https://sites.google.com/site/jamescmorley/), [Valentyn Panchenko](https://www.unsw.edu.au/staff/valentyn-panchenko), [Jorge M. Pinto](https://sites.google.com/site/cokeconphd/research?authuser=0), [Chris Rose](https://sites.google.com/site/christiernrose/))*
 - Baseline Health Distribution Using HILDA *([Shan Jiang](https://researchers.mq.edu.au/en/persons/shan-jiang/), [Bonny Parkinson](https://researchers.mq.edu.au/en/persons/bonny-parkinson/), and [Yuanyuan Gu](https://sites.google.com/view/yuanyuangu))*
