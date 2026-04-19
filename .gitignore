@@ -33,3 +33,5 @@ Gemfile.lock
 *.glg
 *.glsdefs
 *.ist
+
+.codex 
