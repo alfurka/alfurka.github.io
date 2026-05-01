@@ -12,6 +12,7 @@ My research interests span health economics and theoretical/applied econometrics
 
 ### Working Paper
 
+- Suicide risk and place: a scoping review of regional modelling with administrative data on socio-structural determinants (2026). (with [Anam Bilgrami](https://sites.google.com/mq.edu.au/anambilgrami/home), Meimei Chen, and [Henry Cutler](https://researchers.mq.edu.au/en/persons/henry-cutler)) [*Revise & Resubmit @ Social Science & Medicine*]
 - Lost in Aggregation: Quantifying Measurement Error from Geographic Centroids (2025). (with Henry Wen) [*Revise & Resubmit @ Economic Record*]
 - [Bridging Language Barriers: The Impact of Large Language Models on Academic Writing](https://www.iza.org/publications/dp/18215/bridging-language-barriers-the-impact-of-large-language-models-on-academic-writing) (with `Burak Dalaman` and [Nathan Kettlewell](https://sites.google.com/site/nrkettlewell/)) [*Reject & Resubmit @ Journal of Information Technology*, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5656465)]
 - Social Interactions in the Demand for Private Health Insurance: Evidence from Linked Employer-Employee Data. ([Alicia N. Rambaldi](https://www.aliciarambaldi.net/) and [Chris Rose](https://sites.google.com/site/christiernrose/)) 
