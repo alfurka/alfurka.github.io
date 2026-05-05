@@ -9,3 +9,5 @@ image: /img/hello_world.jpeg
 I presented *The Impact of Antidepressant Uptake on Labor Productivity: Evidence from Australian Linked Administrative Data* at the 15th Australasian Workshop on Econometrics and Health Economics on 15 April 2026. This is joint work with `Jonas Fooken` and `Henry Cutler`, and the workshop was a great opportunity to receive feedback from researchers working at the intersection of econometrics and health economics.
 
 The health econometrics workshop was great as usual, and I listened to many excellent papers. There were also many PLIDA-related presentations, and it seems administrative data is becoming even more dominant in health economics in Australia than I had expected. I look forward to attending again next year.
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7452254556870086656" height="1446" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
