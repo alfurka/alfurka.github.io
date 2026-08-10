@@ -106,10 +106,3 @@ For every task, first inspect the relevant existing files and then:
 - run the relevant existing Jekyll or CV validation command when the required tools are
   available;
 - avoid changing unrelated files and verify generated artifacts before finishing.
-
-From the repository root, install the gems if necessary and run:
-
-```bash
-bundle install
-bundle exec jekyll build
-```
