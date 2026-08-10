@@ -55,15 +55,14 @@ subtitle exists. The tag index in `tags.html` displays the post title.
 
 ## Updating and compiling the CV
 
-Edit `/home/runner/work/alfurka.github.io/alfurka.github.io/CV/cv.tex`, not the generated
-PDF or XDV file. Keep the CV current when a task changes CV-relevant information,
-including employment, education, publications, working papers, grants, talks, awards,
-supervision, or skills.
+Edit `CV/cv.tex`, not the generated PDF or XDV file. Keep the CV current when a task
+changes CV-relevant information, including employment, education, publications, working
+papers, grants, talks, awards, supervision, or skills.
 
 After changing `cv.tex`, compile it from the CV directory:
 
 ```bash
-cd /home/runner/work/alfurka.github.io/alfurka.github.io/CV
+cd CV
 latexmk -xelatex cv.tex
 ```
 
@@ -77,8 +76,8 @@ CV-relevant, updating the source without compiling the public PDF is incomplete.
 
 ## Maintaining `research.md`
 
-`/home/runner/work/alfurka.github.io/alfurka.github.io/research.md` is a manually
-maintained Markdown page, not a file generated from the CV or from post front matter.
+`research.md` is a manually maintained Markdown page, not a file generated from the CV
+or from post front matter.
 Keep it as the concise public research record:
 
 1. Preserve the YAML front matter (`layout: page` and the page title).
@@ -108,10 +107,9 @@ For every task, first inspect the relevant existing files and then:
   available;
 - avoid changing unrelated files and verify generated artifacts before finishing.
 
-For a local site build, install the gems if necessary and run:
+From the repository root, install the gems if necessary and run:
 
 ```bash
-cd /home/runner/work/alfurka.github.io/alfurka.github.io
 bundle install
 bundle exec jekyll build
 ```
