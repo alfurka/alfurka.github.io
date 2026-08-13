@@ -3,7 +3,7 @@ layout: post
 title: "Seminar: Prescriber Influence on the Adoption of New Medicines"
 subtitle: "Presented at the University of Auckland Department of Economics"
 tags: [NEWS, seminar, health-economics, medicines, prescribing, physician-behaviour, administrative-data, Australia, presentation]
-image: /img/auckland-flat-white.webp
+image: /img/hello_world.jpeg
 ---
 
 I recently presented our paper, **“Prescriber Influence on the Adoption of New Medicines: Evidence from Movers in Australia,”** at the University of Auckland Department of Economics seminar.
