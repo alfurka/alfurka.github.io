@@ -3,7 +3,7 @@ layout: post
 title: "Seminar: Prescriber Influence on the Adoption of New Medicines"
 subtitle: "Presented at the University of Auckland Department of Economics"
 tags: [NEWS, seminar, health-economics, medicines, prescribing, physician-behaviour, administrative-data, Australia, presentation]
-image: /img/hello_world.jpeg
+image: /img/auckland-flat-white.webp
 ---
 
 I recently presented our paper, **“Prescriber Influence on the Adoption of New Medicines: Evidence from Movers in Australia,”** at the University of Auckland Department of Economics seminar.
@@ -25,3 +25,7 @@ We hope to share the paper and preliminary findings publicly soon, subject to da
 Kadek continues his PhD work on physician decision-making and medicine choice using rich Australian administrative data, with more results to come on how prescribing behaviour affects treatment choices and outcomes.
 
 Stay tuned for more from this project and Kadek’s PhD work.
+
+As a small but important side note: **hands down flat white is better in New Zealand (sample size =5).**
+
+![A New Zealand flat white](/img/auckland-flat-white.webp)
