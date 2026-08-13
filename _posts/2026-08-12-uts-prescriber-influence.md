@@ -18,10 +18,4 @@ We study how much doctors influence the adoption of newer medicines, focusing on
 
 To examine this, we use linked Australian administrative data and a **movers design**, exploiting patients who move across healthcare markets and are exposed to different prescribing environments. We implement this in a **stacked event-study diff-in-diff** to better isolate changes around moves and improve the transparency of the identifying variation.
 
-We hope to share the paper and preliminary findings publicly soon, subject to data disclosure restrictions.
-
-Kadek continues his PhD work on physician decision-making and medicine choice using rich Australian administrative data, with more results to come on how prescribing behaviour affects treatment choices and outcomes.
-
-Stay tuned for more from this project and Kadek’s PhD work.
-
 ![Presentation at the UTS Department of Economics](/img/uts-econ-seminar-august2026.webp)
