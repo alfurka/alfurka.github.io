@@ -3,7 +3,6 @@ layout: post
 title: "On the economics of AI pacing"
 subtitle: "AI Pacing"
 tags: [ai, artificial-intelligence, economics, AI-safety, regulation, blog]
-image: https://miro.medium.com/v2/resize:fit:1400/format:webp/1*SIcnUsAj15cOoC2o3r9_kw.png
 ---
 
 Dario Amodei’s “Pacing Proposal” calls on AI developers to slow the training and release of new models and to embed independent evaluators within their own firms as permanent auditors. Sam Altman and Elon Musk have immediately expressed support on social media.
@@ -17,8 +16,6 @@ Economists usually think about negative externalities through pollution. A facto
 It seems Amodei insinuates that AI externality is different because a developer that releases a dangerous system is somewhere in the blast radius too. But what disciplines behaviour is not this absolute apocalyptic scenario. You cannot fine a company in a world that no longer exists. What disciplines it is something far more ordinary — being the named defendant in a lawsuit when a model enables large-scale fraud, a serious cyber incident, or an agentic system that hurts real people.
 
 In this more ordinary scenario, pacing is not civilisational insurance, as it is pitched. It is simply risk management ahead of a liability regime nobody has written yet. That is a reasonable thing for a company to do. It is just a different thing from what the framing suggests.
-
-![AI pacing](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*SIcnUsAj15cOoC2o3r9_kw.png)
 
 ## Two worlds, one announcement
 
@@ -59,3 +56,5 @@ The costs and benefits may not fall in the same place. Domestic pacing may impos
 We need an understanding of what we are buying, what we are giving up, and only then think about which mechanism actually gets us there.
 
 Nihad Aliyev, Isa Hafalir, Ali Furkan Kalay
+
+![AI pacing](/img/ai-pacing.webp)
