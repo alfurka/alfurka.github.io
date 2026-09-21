@@ -5,6 +5,9 @@ subtitle: "AI Pacing"
 tags: [ai, artificial-intelligence, economics, AI-safety, regulation, blog]
 ---
 
+
+![AI pacing](/img/ai-pacing.webp)
+
 Dario Amodei’s “Pacing Proposal” calls on AI developers to slow the training and release of new models and to embed independent evaluators within their own firms as permanent auditors. Sam Altman and Elon Musk have immediately expressed support on social media.
 
 Amodei wants governments to make this compulsory. If lawmakers act, rules written over the next year or so will determine who is allowed to build advanced AI for the next decade. Meanwhile, the public is asked to accept a safety judgment based on internal evidence that perhaps a few dozen people have seen. There are too many unknowns to assess whether pacing can work.
@@ -55,6 +58,5 @@ The costs and benefits may not fall in the same place. Domestic pacing may impos
 
 We need an understanding of what we are buying, what we are giving up, and only then think about which mechanism actually gets us there.
 
-Nihad Aliyev, Isa Hafalir, Ali Furkan Kalay
+[Nihad Aliyev](https://www.aliyevnihad.com/), [Isa Hafalir](https://sites.google.com/site/isaemin/), Ali Furkan Kalay
 
-![AI pacing](/img/ai-pacing.webp)
