@@ -14,7 +14,7 @@ Answering it became a much larger data exercise than I expected. We linked NSW p
 
 A geographic centroid is not automatically a bad proxy. How well it works depends on the geography, the spatial variable being constructed, where the relevant entities are actually located inside the area, and which of those entities end up in the analytical sample.
 
-One useful way to see this is to separate two sources of systematic displacement. For area \(g\), let \(\mathbf{c}_g\) be the geometric centroid, \(\bar{\mathbf{p}}_g\) the centroid of the relevant underlying entities, such as the residential address stock in G-NAF, and \(\bar{\mathbf{s}}_g\) the centroid of the observed sample transactions. Then
+One useful way to see this is to separate two sources of systematic displacement. For area $g$, let $\mathbf{c}_g$ be the geometric centroid, $\bar{\mathbf{p}}_g$ the centroid of the relevant underlying entities, such as the residential address stock in G-NAF, and $\bar{\mathbf{s}}_g$ the centroid of the observed sample transactions. Then
 
 $$
 \bar{\mathbf{s}}_g-\mathbf{c}_g
@@ -32,7 +32,7 @@ Our results also show why there is no simple ranking in which every coarser cent
 
 The usual textbook intuition says measurement error pushes a coefficient towards zero. That result needs the measurement error to satisfy strong conditions. Spatial measurement error has little reason to satisfy them.
 
-The point becomes clear after partialling out the controls and fixed effects. Let \(x\) be the exact spatial variable, \(\widetilde{x}=x+e\) its centroid proxy, and \(y\) the residualised outcome. The coefficient gap can be written as
+The point becomes clear after partialling out the controls and fixed effects. Let $x$ be the exact spatial variable, $\widetilde{x}=x+e$ its centroid proxy, and $y$ the residualised outcome. The coefficient gap can be written as
 
 $$
 \widehat{\beta}_{\text{centroid}}-\widehat{\beta}_{\text{exact}}
