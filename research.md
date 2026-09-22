@@ -7,7 +7,7 @@ My research interests span health economics and theoretical/applied econometrics
 
 ### Published Work
 
-- [Lost in Aggregation: Quantifying Measurement Error from Geographic Centroids](https://doi.org/10.1111/1475-4932.70072) (2026). *Economic Record* (with Henry Wen)
+- [Lost in Aggregation: Quantifying Measurement Error from Geographic Centroids](https://doi.org/10.1111/1475-4932.70072) (2026). *Economic Record* (with Henry Wen) [[Replication](https://github.com/alfurka/quantify-measurement-error-replication-codes), [Blog Post](https://alfurka.github.io/2026-09-22-lost-in-aggregation-geographic-centroids/)]
 - [Generating Synthetic Data with Locally Estimated Distributions for Disclosure Control](https://doi.org/10.1111/anzs.70032) (2025). *Australian & New Zealand Journal of Statistics*, 1–24. [[Software](https://github.com/alfurka/synloc), [Blog Post](https://alfurka.github.io/2025-12-16-synthetic-data-paper-published/), [Video](https://www.youtube.com/watch?v=FzvWzG_t2mM)]
 - [Spatial analysis of Twitter sentiment and district-level housing prices](https://www.emerald.com/insight/content/doi/10.1108/JERER-08-2018-0036/full/html) (2019). *Journal of European Real Estate Research* (with Christopher Hannum and Kerem Yavuz Arslanli)
 
