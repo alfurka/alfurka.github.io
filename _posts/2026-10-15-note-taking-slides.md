@@ -12,8 +12,6 @@ So I made a small **single-file HTML template** for it. Notes are saved automati
 
 I liked it enough that I cleaned it up into a reusable template.
 
-![Note-taking slides template](https://raw.githubusercontent.com/alfurka/note-taking-slides/main/assets/template-preview.jpg)
-
 - **Template and instructions:** [github.com/alfurka/note-taking-slides](https://github.com/alfurka/note-taking-slides)
 
 That is basically it. Sometimes the useful tools are the very small ones.
