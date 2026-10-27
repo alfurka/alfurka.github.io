@@ -35,3 +35,7 @@ Gemfile.lock
 *.ist
 
 .codex 
+
+# experience CV (local only)
+CV/cv_experience.tex
+CV/cv_experience.pdf
