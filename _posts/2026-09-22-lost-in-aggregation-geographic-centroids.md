@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lost in Aggregation: When Geographic Centroids Mislead"
-subtitle: "New Economic Record paper on spatial measurement error"
+subtitle: "New paper on spatial measurement error"
 tags: [NEWS, blog, publication, econometrics, spatial-data, measurement-error, australia]
 image: /img/data.png
 ---
